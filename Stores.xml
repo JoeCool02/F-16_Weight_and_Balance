@@ -1,0 +1,4968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Stores.xsd" generated="2012-02-10T06:00:07">
+<Stores>
+<ID>435</ID>
+<Quantity>1</Quantity>
+<Store_Name>370 GAL TANK/PYLON/UNUS</Store_Name>
+<Short_Name>370 TANK/PYLON/UNUS</Short_Name>
+<Station>5</Station>
+<Store_Weight>467</Store_Weight>
+<FS_Arm>317.987</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>436</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S210 LAUNCHER</Store_Name>
+<Short_Name>16S210</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>0</Store_Weight>
+<FS_Arm>373</FS_Arm>
+<BLS_Arm>189.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>437</ID>
+<Quantity>1</Quantity>
+<Store_Name>LAU-129/A LAUNCHER</Store_Name>
+<Short_Name>LAU-129/A</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>15</Store_Weight>
+<FS_Arm>373</FS_Arm>
+<BLS_Arm>189.1</BLS_Arm>
+</Stores>
+<Stores>
+<ID>438</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S301 ADAPTER</Store_Name>
+<Short_Name>16S301</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>26</Store_Weight>
+<FS_Arm>374.8</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>441</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S350 2 DECOYS</Store_Name>
+<Short_Name>16S350 2 DECOYS</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>109</Store_Weight>
+<FS_Arm>389.6</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>442</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S350 1 DECOY</Store_Name>
+<Short_Name>16S350 1 DECOY</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>104</Store_Weight>
+<FS_Arm>389.3</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>443</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S350 EMPTY</Store_Name>
+<Short_Name>16S350 EMPTY</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>99</Store_Weight>
+<FS_Arm>389</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>444</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S210 LAUNCHER</Store_Name>
+<Short_Name>16S210</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>72</Store_Weight>
+<FS_Arm>355.2</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>445</ID>
+<Quantity>1</Quantity>
+<Store_Name>LAU-129/A LAUNCHER</Store_Name>
+<Short_Name>LAU-129/A</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>87</Store_Weight>
+<FS_Arm>356.5</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>446</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1700, 16E1608 CRIU</Store_Name>
+<Short_Name>W/P, CRIU</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>276</Store_Weight>
+<FS_Arm>346.8</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>447</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1700, 16E10100 ACRIU</Store_Name>
+<Short_Name>W/P, ACRIU</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>278</Store_Weight>
+<FS_Arm>346.9</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>448</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1700, 16E1640 NRIU</Store_Name>
+<Short_Name>W/P, NRIU</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>280</Store_Weight>
+<FS_Arm>347.8</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>449</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1700, 16E10250 NRIU Rugged</Store_Name>
+<Short_Name>W/P, NRIU Rugged</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>281</Store_Weight>
+<FS_Arm>347.8</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>450</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1700, 16E1608 &amp; 16E1640 RIUs</Store_Name>
+<Short_Name>W/P, 16E1608 &amp; 16E1640</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>287</Store_Weight>
+<FS_Arm>348.2</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>451</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1700, 16E1608 &amp; 16E10250 RIUs</Store_Name>
+<Short_Name>W/P, 16E1608 &amp; 16E10250</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>287</Store_Weight>
+<FS_Arm>348.2</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>452</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1700, 16E10100 &amp; 16E1640 RIUs</Store_Name>
+<Short_Name>W/P, 16E10100 &amp; 16E1640</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>289</Store_Weight>
+<FS_Arm>348.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>453</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1700, 16E10100 &amp; 16E10250 RIUs</Store_Name>
+<Short_Name>W/P, 16E10100 &amp; 16E10250</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>289</Store_Weight>
+<FS_Arm>348.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>454</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S301 ADAPTER</Store_Name>
+<Short_Name>16S301</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>26</Store_Weight>
+<FS_Arm>348.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>455</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S210 LAUNCHER</Store_Name>
+<Short_Name>16S210</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>72</Store_Weight>
+<FS_Arm>329.2</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>456</ID>
+<Quantity>1</Quantity>
+<Store_Name>LAU-88/A LAUNCHER</Store_Name>
+<Short_Name>LAU-88/A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>468</Store_Weight>
+<FS_Arm>343.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>457</ID>
+<Quantity>1</Quantity>
+<Store_Name>LAU-88A/A LAUNCHER</Store_Name>
+<Short_Name>LAU-88A/A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>476</Store_Weight>
+<FS_Arm>344.2</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>458</ID>
+<Quantity>1</Quantity>
+<Store_Name>LAU-117/A, A(V)1/A, A(V)3/A</Store_Name>
+<Short_Name>LAU-117/A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>136</Store_Weight>
+<FS_Arm>350</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>459</ID>
+<Quantity>1</Quantity>
+<Store_Name>LAU-118(V)4/A, A(V)4/A</Store_Name>
+<Short_Name>LAU-118</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>120</Store_Weight>
+<FS_Arm>348.1</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>460</ID>
+<Quantity>1</Quantity>
+<Store_Name>LAU-129/A LAUNCHER</Store_Name>
+<Short_Name>LAU-129/A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>87</Store_Weight>
+<FS_Arm>330.5</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>461</ID>
+<Quantity>1</Quantity>
+<Store_Name>66J45517 TER-9/A</Store_Name>
+<Short_Name>TER-9/A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>93</Store_Weight>
+<FS_Arm>340.8</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>462</ID>
+<Quantity>1</Quantity>
+<Store_Name>66J45517 TER-9/A W/SWAY BRACES</Store_Name>
+<Short_Name>TER-9/A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>99</Store_Weight>
+<FS_Arm>340.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>463</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1750 TER</Store_Name>
+<Short_Name>TER</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>117</Store_Weight>
+<FS_Arm>337.9</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>464</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1750 TER W/SWAY BRACES</Store_Name>
+<Short_Name>TER</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>123</Store_Weight>
+<FS_Arm>337.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>582</ID>
+<Quantity>1</Quantity>
+<Store_Name>CATM-120D</Store_Name>
+<Short_Name>CATM-120D</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>347</Store_Weight>
+<FS_Arm>360.231</FS_Arm>
+<BLS_Arm>185.879</BLS_Arm>
+</Stores>
+<Stores>
+<ID>583</ID>
+<Quantity>1</Quantity>
+<Store_Name>CATM-9X</Store_Name>
+<Short_Name>CATM-9X</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>190</Store_Weight>
+<FS_Arm>355.263</FS_Arm>
+<BLS_Arm>156.842</BLS_Arm>
+</Stores>
+<Stores>
+<ID>584</ID>
+<Quantity>1</Quantity>
+<Store_Name>YAGM-88F</Store_Name>
+<Short_Name>YAGM-88F</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>795</Store_Weight>
+<FS_Arm>325.66</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>3</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9P OR -9P-1</Store_Name>
+<Short_Name>AIM-9P OR -9P-1</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>166</Store_Weight>
+<FS_Arm>364.1</FS_Arm>
+<BLS_Arm>189.4</BLS_Arm>
+<Image>FRwyAAIAAAAWAAgAFAAqAP////9QYWNrYWdlciBTaGVsbCBPYmplY3QAUGFja2Fn
+ZQABBQAAAgAAAAgAAABQYWNrYWdlAAAAAAAAAAAApgAAAAIAU3RvcmUucG5nAFxc
+RlBGU1BNNDFcU2hhcmVcT3BlcmF0aW9uc1xBRE9zXE9wcyBBRE9cRm9ybSBGIEdl
+bmVyYXRvclxJY29uc1xTdG9yZS5wbmcAAAABAAEAXFxGUEZTUE00MVxTaGFyZVxP
+cGVyYXRpb25zXEFET3NcT3BzIEFET1xGb3JtIEYgR2VuZXJhdG9yXEljb25zXFN0
+b3JlLnBuZwABBQAAAAAAAPytBf4=
+</Image>
+</Stores>
+<Stores>
+<ID>4</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9P-2, -9P-3, OR -9P-4</Store_Name>
+<Short_Name>AIM-9P-2, -9P-3, OR -9P-4</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>178</Store_Weight>
+<FS_Arm>365</FS_Arm>
+<BLS_Arm>189.4</BLS_Arm>
+<Image>FRwyAAIAAAAWAAgAFAAqAP////9QYWNrYWdlciBTaGVsbCBPYmplY3QAUGFja2Fn
+ZQABBQAAAgAAAAgAAABQYWNrYWdlAAAAAAAAAAAApgAAAAIAU3RvcmUucG5nAFxc
+RlBGU1BNNDFcU2hhcmVcT3BlcmF0aW9uc1xBRE9zXE9wcyBBRE9cRm9ybSBGIEdl
+bmVyYXRvclxJY29uc1xTdG9yZS5wbmcAAAABAAEAXFxGUEZTUE00MVxTaGFyZVxP
+cGVyYXRpb25zXEFET3NcT3BzIEFET1xGb3JtIEYgR2VuZXJhdG9yXEljb25zXFN0
+b3JlLnBuZwABBQAAAAAAAPytBf4=
+</Image>
+</Stores>
+<Stores>
+<ID>5</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9L OR -9M</Store_Name>
+<Short_Name>AIM-9L OR -9M</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>195</Store_Weight>
+<FS_Arm>365.5</FS_Arm>
+<BLS_Arm>189.4</BLS_Arm>
+<Image>FRwyAAIAAAAWAAgAFAAqAP////9QYWNrYWdlciBTaGVsbCBPYmplY3QAUGFja2Fn
+ZQABBQAAAgAAAAgAAABQYWNrYWdlAAAAAAAAAAAApgAAAAIAU3RvcmUucG5nAFxc
+RlBGU1BNNDFcU2hhcmVcT3BlcmF0aW9uc1xBRE9zXE9wcyBBRE9cRm9ybSBGIEdl
+bmVyYXRvclxJY29uc1xTdG9yZS5wbmcAAAABAAEAXFxGUEZTUE00MVxTaGFyZVxP
+cGVyYXRpb25zXEFET3NcT3BzIEFET1xGb3JtIEYgR2VuZXJhdG9yXEljb25zXFN0
+b3JlLnBuZwABBQAAAAAAAPytBf4=
+</Image>
+</Stores>
+<Stores>
+<ID>6</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9P OR -9P-1</Store_Name>
+<Short_Name>AIM-9P OR -9P-1</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>166</Store_Weight>
+<FS_Arm>363.1</FS_Arm>
+<BLS_Arm>189.1</BLS_Arm>
+<Image>FRwyAAIAAAAWAAgAFAAqAP////9QYWNrYWdlciBTaGVsbCBPYmplY3QAUGFja2Fn
+ZQABBQAAAgAAAAgAAABQYWNrYWdlAAAAAAAAAAAApgAAAAIAU3RvcmUucG5nAFxc
+RlBGU1BNNDFcU2hhcmVcT3BlcmF0aW9uc1xBRE9zXE9wcyBBRE9cRm9ybSBGIEdl
+bmVyYXRvclxJY29uc1xTdG9yZS5wbmcAAAABAAEAXFxGUEZTUE00MVxTaGFyZVxP
+cGVyYXRpb25zXEFET3NcT3BzIEFET1xGb3JtIEYgR2VuZXJhdG9yXEljb25zXFN0
+b3JlLnBuZwABBQAAAAAAAPytBf4=
+</Image>
+</Stores>
+<Stores>
+<ID>7</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9P-2, -9P-3, OR -9P-4</Store_Name>
+<Short_Name>AIM-9P-2, -9P-3, OR -9P-4</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>178</Store_Weight>
+<FS_Arm>364</FS_Arm>
+<BLS_Arm>189.1</BLS_Arm>
+<Image>FRwyAAIAAAAWAAgAFAAqAP////9QYWNrYWdlciBTaGVsbCBPYmplY3QAUGFja2Fn
+ZQABBQAAAgAAAAgAAABQYWNrYWdlAAAAAAAAAAAApgAAAAIAU3RvcmUucG5nAFxc
+RlBGU1BNNDFcU2hhcmVcT3BlcmF0aW9uc1xBRE9zXE9wcyBBRE9cRm9ybSBGIEdl
+bmVyYXRvclxJY29uc1xTdG9yZS5wbmcAAAABAAEAXFxGUEZTUE00MVxTaGFyZVxP
+cGVyYXRpb25zXEFET3NcT3BzIEFET1xGb3JtIEYgR2VuZXJhdG9yXEljb25zXFN0
+b3JlLnBuZwABBQAAAAAAAPytBf4=
+</Image>
+</Stores>
+<Stores>
+<ID>8</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9L OR -9M</Store_Name>
+<Short_Name>AIM-9L OR -9M</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>195</Store_Weight>
+<FS_Arm>364.5</FS_Arm>
+<BLS_Arm>189.1</BLS_Arm>
+</Stores>
+<Stores>
+<ID>9</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9X</Store_Name>
+<Short_Name>AIM-9X</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>186</Store_Weight>
+<FS_Arm>365</FS_Arm>
+<BLS_Arm>189.1</BLS_Arm>
+</Stores>
+<Stores>
+<ID>10</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-120A</Store_Name>
+<Short_Name>AIM-120A</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>339</Store_Weight>
+<FS_Arm>360.5</FS_Arm>
+<BLS_Arm>189.7</BLS_Arm>
+</Stores>
+<Stores>
+<ID>11</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-120B</Store_Name>
+<Short_Name>AIM-120B</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>341</Store_Weight>
+<FS_Arm>360.5</FS_Arm>
+<BLS_Arm>189.8</BLS_Arm>
+</Stores>
+<Stores>
+<ID>12</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-120C</Store_Name>
+<Short_Name>AIM-120C</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>341</Store_Weight>
+<FS_Arm>360.5</FS_Arm>
+<BLS_Arm>189.8</BLS_Arm>
+</Stores>
+<Stores>
+<ID>13</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-120C-5 OR C-6</Store_Name>
+<Short_Name>AIM-120C-5 OR C-6</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>355</Store_Weight>
+<FS_Arm>360.3</FS_Arm>
+<BLS_Arm>189.8</BLS_Arm>
+</Stores>
+<Stores>
+<ID>14</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-120C-7</Store_Name>
+<Short_Name>AIM-120C-7</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>356</Store_Weight>
+<FS_Arm>360.3</FS_Arm>
+<BLS_Arm>189.8</BLS_Arm>
+</Stores>
+<Stores>
+<ID>15</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9 (INERT)</Store_Name>
+<Short_Name>AIM-9 (INERT)</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>169</Store_Weight>
+<FS_Arm>363</FS_Arm>
+<BLS_Arm>189.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>16</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9 (INERT)</Store_Name>
+<Short_Name>AIM-9 (INERT)</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>169</Store_Weight>
+<FS_Arm>362</FS_Arm>
+<BLS_Arm>189.1</BLS_Arm>
+</Stores>
+<Stores>
+<ID>17</ID>
+<Quantity>1</Quantity>
+<Store_Name>CATM-120A, B</Store_Name>
+<Short_Name>CATM-120A, B</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>345</Store_Weight>
+<FS_Arm>360.5</FS_Arm>
+<BLS_Arm>189.7</BLS_Arm>
+</Stores>
+<Stores>
+<ID>18</ID>
+<Quantity>1</Quantity>
+<Store_Name>CATM-120C (101)</Store_Name>
+<Short_Name>CATM-120C (101)</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>341</Store_Weight>
+<FS_Arm>360.5</FS_Arm>
+<BLS_Arm>189.8</BLS_Arm>
+</Stores>
+<Stores>
+<ID>19</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9L AMD</Store_Name>
+<Short_Name>AIM-9L AMD</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>184</Store_Weight>
+<FS_Arm>364.7</FS_Arm>
+<BLS_Arm>189.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>20</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9L AMD</Store_Name>
+<Short_Name>AIM-9L AMD</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>184</Store_Weight>
+<FS_Arm>363.7</FS_Arm>
+<BLS_Arm>189.1</BLS_Arm>
+</Stores>
+<Stores>
+<ID>21</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9P AMD</Store_Name>
+<Short_Name>AIM-9P AMD</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>178</Store_Weight>
+<FS_Arm>366</FS_Arm>
+<BLS_Arm>189.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>22</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9P AMD</Store_Name>
+<Short_Name>AIM-9P AMD</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>178</Store_Weight>
+<FS_Arm>365</FS_Arm>
+<BLS_Arm>189.1</BLS_Arm>
+</Stores>
+<Stores>
+<ID>23</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIS OR ACMI POD</Store_Name>
+<Short_Name>AIS OR ACMI POD</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>123</Store_Weight>
+<FS_Arm>363.4</FS_Arm>
+<BLS_Arm>189.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>24</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIS OR ACMI POD</Store_Name>
+<Short_Name>AIS OR ACMI POD</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>123</Store_Weight>
+<FS_Arm>362.3</FS_Arm>
+<BLS_Arm>189.1</BLS_Arm>
+</Stores>
+<Stores>
+<ID>25</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52(V)-2, 3, 4</Store_Name>
+<Short_Name>AN/ARQ-52(V)-2, 3, 4</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>130</Store_Weight>
+<FS_Arm>364.3</FS_Arm>
+<BLS_Arm>189.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>26</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52(V)-2, 3, 4</Store_Name>
+<Short_Name>AN/ARQ-52(V)-2, 3, 4</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>130</Store_Weight>
+<FS_Arm>363.3</FS_Arm>
+<BLS_Arm>189.1</BLS_Arm>
+</Stores>
+<Stores>
+<ID>27</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52B(V)-2</Store_Name>
+<Short_Name>AN/ARQ-52B(V)-2</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>139</Store_Weight>
+<FS_Arm>364.8</FS_Arm>
+<BLS_Arm>189.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>28</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52B(V)-2</Store_Name>
+<Short_Name>AN/ARQ-52B(V)-2</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>139</Store_Weight>
+<FS_Arm>363.8</FS_Arm>
+<BLS_Arm>189.1</BLS_Arm>
+</Stores>
+<Stores>
+<ID>29</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52B(V)-17</Store_Name>
+<Short_Name>AN/ARQ-52B(V)-17</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>135</Store_Weight>
+<FS_Arm>364</FS_Arm>
+<BLS_Arm>189.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>30</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52B(V)-17</Store_Name>
+<Short_Name>AN/ARQ-52B(V)-17</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>135</Store_Weight>
+<FS_Arm>363</FS_Arm>
+<BLS_Arm>189.1</BLS_Arm>
+</Stores>
+<Stores>
+<ID>31</ID>
+<Quantity>1</Quantity>
+<Store_Name>GRDCS II SHOOTER POD</Store_Name>
+<Short_Name>GRDCS II SHOOTER POD</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>127</Store_Weight>
+<FS_Arm>363.3</FS_Arm>
+<BLS_Arm>189.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>32</ID>
+<Quantity>1</Quantity>
+<Store_Name>GRDCS II SHOOTER POD</Store_Name>
+<Short_Name>GRDCS II SHOOTER POD</Short_Name>
+<Station>1/9</Station>
+<Store_Weight>127</Store_Weight>
+<FS_Arm>362.3</FS_Arm>
+<BLS_Arm>189.1</BLS_Arm>
+</Stores>
+<Stores>
+<ID>39</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9P OR -9P-1</Store_Name>
+<Short_Name>AIM-9P OR -9P-1</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>166</Store_Weight>
+<FS_Arm>354.5</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>40</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9P-2, -9P-3, OR -9P-4</Store_Name>
+<Short_Name>AIM-9P-2, -9P-3, OR -9P-4</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>178</Store_Weight>
+<FS_Arm>355.4</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>41</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9L OR -9M</Store_Name>
+<Short_Name>AIM-9L OR -9M</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>195</Store_Weight>
+<FS_Arm>355.9</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>45</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9P OR -9P-1</Store_Name>
+<Short_Name>AIM-9P OR -9P-1</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>166</Store_Weight>
+<FS_Arm>353.4</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>46</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9P-2, -9P-3, OR -9P-4</Store_Name>
+<Short_Name>AIM-9P-2, -9P-3, OR -9P-4</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>178</Store_Weight>
+<FS_Arm>354.3</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>47</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9L OR -9M</Store_Name>
+<Short_Name>AIM-9L OR -9M</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>195</Store_Weight>
+<FS_Arm>354.8</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>48</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9X</Store_Name>
+<Short_Name>AIM-9X</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>186</Store_Weight>
+<FS_Arm>355.5</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>57</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-120A</Store_Name>
+<Short_Name>AIM-120A</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>339</Store_Weight>
+<FS_Arm>350.9</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>58</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-120B</Store_Name>
+<Short_Name>AIM-120B</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>341</Store_Weight>
+<FS_Arm>350.9</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>59</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-120C</Store_Name>
+<Short_Name>AIM-120C</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>341</Store_Weight>
+<FS_Arm>350.9</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>60</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-120C-5 OR -6</Store_Name>
+<Short_Name>AIM-120C-5 OR -6</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>355</Store_Weight>
+<FS_Arm>350.7</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>61</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-120C-7</Store_Name>
+<Short_Name>AIM-120C-7</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>356</Store_Weight>
+<FS_Arm>350.7</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>62</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9 (INERT)</Store_Name>
+<Short_Name>AIM-9 (INERT)</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>169</Store_Weight>
+<FS_Arm>353.4</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>64</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9 (INERT)</Store_Name>
+<Short_Name>AIM-9 (INERT)</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>169</Store_Weight>
+<FS_Arm>352.3</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>66</ID>
+<Quantity>1</Quantity>
+<Store_Name>CATM-120A, B</Store_Name>
+<Short_Name>CATM-120A, B</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>345</Store_Weight>
+<FS_Arm>350.9</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>68</ID>
+<Quantity>1</Quantity>
+<Store_Name>CATM-120C (101)</Store_Name>
+<Short_Name>CATM-120C (101)</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>341</Store_Weight>
+<FS_Arm>350.9</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>69</ID>
+<Quantity>1</Quantity>
+<Store_Name>CATM-120C (101)</Store_Name>
+<Short_Name>CATM-120C (101)</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>341</Store_Weight>
+<FS_Arm>350.9</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>70</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9L AMD</Store_Name>
+<Short_Name>AIM-9L AMD</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>184</Store_Weight>
+<FS_Arm>355.1</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>71</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9L AMD</Store_Name>
+<Short_Name>AIM-9L AMD</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>184</Store_Weight>
+<FS_Arm>354</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>74</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9P AMD</Store_Name>
+<Short_Name>AIM-9P AMD</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>178</Store_Weight>
+<FS_Arm>356.4</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>75</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9P AMD</Store_Name>
+<Short_Name>AIM-9P AMD</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>178</Store_Weight>
+<FS_Arm>355.4</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>78</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIS OR ACMI POD</Store_Name>
+<Short_Name>AIS OR ACMI POD</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>123</Store_Weight>
+<FS_Arm>353.8</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>80</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIS OR ACMI POD</Store_Name>
+<Short_Name>AIS OR ACMI POD</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>123</Store_Weight>
+<FS_Arm>352.7</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>82</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52(V)-2, -3, -4</Store_Name>
+<Short_Name>AN/ARQ-52(V)-2, -3, -4</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>130</Store_Weight>
+<FS_Arm>354.7</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>83</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52(V)-2, -3, -4</Store_Name>
+<Short_Name>AN/ARQ-52(V)-2, -3, -4</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>130</Store_Weight>
+<FS_Arm>353.7</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>86</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52(V)-7</Store_Name>
+<Short_Name>AN/ARQ-52(V)-7</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>135</Store_Weight>
+<FS_Arm>355.4</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>87</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52(V)-7</Store_Name>
+<Short_Name>AN/ARQ-52(V)-7</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>135</Store_Weight>
+<FS_Arm>354.3</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>90</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52B(V)-2</Store_Name>
+<Short_Name>AN/ARQ-52B(V)-2</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>139</Store_Weight>
+<FS_Arm>355.2</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>91</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52B(V)-2</Store_Name>
+<Short_Name>AN/ARQ-52B(V)-2</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>139</Store_Weight>
+<FS_Arm>354.2</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>92</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52B(V)-17</Store_Name>
+<Short_Name>AN/ARQ-52B(V)-17</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>135</Store_Weight>
+<FS_Arm>354.3</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>93</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52B(V)-17</Store_Name>
+<Short_Name>AN/ARQ-52B(V)-17</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>135</Store_Weight>
+<FS_Arm>353.3</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>94</ID>
+<Quantity>1</Quantity>
+<Store_Name>GRDCS II SHOOTER POD</Store_Name>
+<Short_Name>GRDCS II SHOOTER POD</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>127</Store_Weight>
+<FS_Arm>353.6</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>96</ID>
+<Quantity>1</Quantity>
+<Store_Name>GRDCS II SHOOTER POD</Store_Name>
+<Short_Name>GRDCS II SHOOTER POD</Short_Name>
+<Station>2/8</Station>
+<Store_Weight>127</Store_Weight>
+<FS_Arm>352.6</FS_Arm>
+<BLS_Arm>157</BLS_Arm>
+</Stores>
+<Stores>
+<ID>129</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9P OR -9P-1</Store_Name>
+<Short_Name>AIM-9P OR -9P-1</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>166</Store_Weight>
+<FS_Arm>328.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>130</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9P-2, -9P-3, OR -9P-4</Store_Name>
+<Short_Name>AIM-9P-2, -9P-3, OR -9P-4</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>178</Store_Weight>
+<FS_Arm>329.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>131</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9L OR -9M</Store_Name>
+<Short_Name>AIM-9L OR -9M</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>195</Store_Weight>
+<FS_Arm>329.8</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>465</ID>
+<Quantity>1</Quantity>
+<Store_Name>LAU-3/A, B/A, C/A, D/A POD</Store_Name>
+<Short_Name>LAU-3</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>78</Store_Weight>
+<FS_Arm>344.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>466</ID>
+<Quantity>1</Quantity>
+<Store_Name>LAU-3/A, B/A, C/A, D/A POD CENTER</Store_Name>
+<Short_Name>LAU-3</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>78</Store_Weight>
+<FS_Arm>345.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>467</ID>
+<Quantity>1</Quantity>
+<Store_Name>LAU-3/A, B/A, C/A, D/A POD OUTBOARD</Store_Name>
+<Short_Name>LAU-3</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>78</Store_Weight>
+<FS_Arm>344.7</FS_Arm>
+<BLS_Arm>131.3</BLS_Arm>
+</Stores>
+<Stores>
+<ID>468</ID>
+<Quantity>1</Quantity>
+<Store_Name>LAU-68A/A, B/A POD CENTER</Store_Name>
+<Short_Name>LAU-3</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>67</Store_Weight>
+<FS_Arm>343.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>469</ID>
+<Quantity>1</Quantity>
+<Store_Name>LAU-68A/A, B/A POD OUTBOARD</Store_Name>
+<Short_Name>LAU-3</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>67</Store_Weight>
+<FS_Arm>342.7</FS_Arm>
+<BLS_Arm>129.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>470</ID>
+<Quantity>1</Quantity>
+<Store_Name>LAU-118A(V)4/A LAUNCHER INBOARD</Store_Name>
+<Short_Name>LAU-118A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>120</Store_Weight>
+<FS_Arm>348.3</FS_Arm>
+<BLS_Arm>111.1</BLS_Arm>
+</Stores>
+<Stores>
+<ID>471</ID>
+<Quantity>1</Quantity>
+<Store_Name>LAU-118A(V)4/A LAUNCHER OUTBOARD</Store_Name>
+<Short_Name>LAU-118A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>120</Store_Weight>
+<FS_Arm>348.3</FS_Arm>
+<BLS_Arm>128.9</BLS_Arm>
+</Stores>
+<Stores>
+<ID>472</ID>
+<Quantity>1</Quantity>
+<Store_Name>LAU-131/A POD CENTER</Store_Name>
+<Short_Name>LAU-131</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>69</Store_Weight>
+<FS_Arm>344.1</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>473</ID>
+<Quantity>1</Quantity>
+<Store_Name>LAU-131/A POD OUTBOARD</Store_Name>
+<Short_Name>LAU-131</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>69</Store_Weight>
+<FS_Arm>343.5</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>474</ID>
+<Quantity>1</Quantity>
+<Store_Name>SUU-20A/A POD</Store_Name>
+<Short_Name>SUU-20A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>330</Store_Weight>
+<FS_Arm>339</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>475</ID>
+<Quantity>1</Quantity>
+<Store_Name>SUU-20B/A POD</Store_Name>
+<Short_Name>SUU-20B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>276</Store_Weight>
+<FS_Arm>338.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>476</ID>
+<Quantity>1</Quantity>
+<Store_Name>BRU-57/A</Store_Name>
+<Short_Name>BRU-57/A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>262</Store_Weight>
+<FS_Arm>339.2</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>477</ID>
+<Quantity>2</Quantity>
+<Store_Name>LAU-3/A, B/A, C/A, D/A PODS CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 X LAU-3/A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>78</Store_Weight>
+<FS_Arm>345</FS_Arm>
+<BLS_Arm>125.65</BLS_Arm>
+</Stores>
+<Stores>
+<ID>478</ID>
+<Quantity>2</Quantity>
+<Store_Name>LAU-68A/A, B/A POD CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 X LAU-68A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>67</Store_Weight>
+<FS_Arm>343</FS_Arm>
+<BLS_Arm>124.7</BLS_Arm>
+</Stores>
+<Stores>
+<ID>479</ID>
+<Quantity>2</Quantity>
+<Store_Name>LAU-118A(V)4/A LAUNCHER INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 X LAU-118A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>120</Store_Weight>
+<FS_Arm>348.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>480</ID>
+<Quantity>2</Quantity>
+<Store_Name>LAU-131/A POD CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 X LAU-131/A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>69</Store_Weight>
+<FS_Arm>343.8</FS_Arm>
+<BLS_Arm>124.7</BLS_Arm>
+</Stores>
+<Stores>
+<ID>481</ID>
+<Quantity>2</Quantity>
+<Store_Name>AGM-65A, B INBOARD &amp; CENTER</Store_Name>
+<Short_Name>2 x AGM-65A,B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>464</Store_Weight>
+<FS_Arm>337.25</FS_Arm>
+<BLS_Arm>111.85</BLS_Arm>
+</Stores>
+<Stores>
+<ID>482</ID>
+<Quantity>2</Quantity>
+<Store_Name>AGM-65A, B INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x AGM-65A,B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>464</Store_Weight>
+<FS_Arm>336.9</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>483</ID>
+<Quantity>2</Quantity>
+<Store_Name>AGM-65A, B CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x AGM-65A,B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>464</Store_Weight>
+<FS_Arm>337.25</FS_Arm>
+<BLS_Arm>128.2</BLS_Arm>
+</Stores>
+<Stores>
+<ID>484</ID>
+<Quantity>3</Quantity>
+<Store_Name>AGM-65A, B ALL STATIONS</Store_Name>
+<Short_Name>3 x AGM-65A,B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>464</Store_Weight>
+<FS_Arm>337.133</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>485</ID>
+<Quantity>2</Quantity>
+<Store_Name>AGM-65D INBOARD &amp; CENTER</Store_Name>
+<Short_Name>2 x AGM-65D</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>486</Store_Weight>
+<FS_Arm>336.05</FS_Arm>
+<BLS_Arm>111.85</BLS_Arm>
+</Stores>
+<Stores>
+<ID>486</ID>
+<Quantity>2</Quantity>
+<Store_Name>AGM-65D INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x AGM-65D</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>486</Store_Weight>
+<FS_Arm>335.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>487</ID>
+<Quantity>2</Quantity>
+<Store_Name>AGM-65D CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x AGM-65D</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>486</Store_Weight>
+<FS_Arm>336.05</FS_Arm>
+<BLS_Arm>128.2</BLS_Arm>
+</Stores>
+<Stores>
+<ID>488</ID>
+<Quantity>3</Quantity>
+<Store_Name>AGM-65D ALL STATIONS</Store_Name>
+<Short_Name>3 x AGM-65D</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>486</Store_Weight>
+<FS_Arm>335.933</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>489</ID>
+<Quantity>2</Quantity>
+<Store_Name>AGM-65H INBOARD &amp; CENTER</Store_Name>
+<Short_Name>2 x AGM-65H</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>471</Store_Weight>
+<FS_Arm>336.75</FS_Arm>
+<BLS_Arm>111.85</BLS_Arm>
+</Stores>
+<Stores>
+<ID>490</ID>
+<Quantity>2</Quantity>
+<Store_Name>AGM-65H INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x AGM-65H</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>471</Store_Weight>
+<FS_Arm>336.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>491</ID>
+<Quantity>2</Quantity>
+<Store_Name>AGM-65H CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x AGM-65H</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>471</Store_Weight>
+<FS_Arm>336.75</FS_Arm>
+<BLS_Arm>128.2</BLS_Arm>
+</Stores>
+<Stores>
+<ID>492</ID>
+<Quantity>3</Quantity>
+<Store_Name>AGM-65H ALL STATIONS</Store_Name>
+<Short_Name>3 x AGM-65H</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>471</Store_Weight>
+<FS_Arm>336.633</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>493</ID>
+<Quantity>2</Quantity>
+<Store_Name>AGM-154/A INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x AGM-154/A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>1064</Store_Weight>
+<FS_Arm>339.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>494</ID>
+<Quantity>2</Quantity>
+<Store_Name>AGM-154/B INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x AGM-154/B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>1046</Store_Weight>
+<FS_Arm>338.8</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>132</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9P OR -9P-1</Store_Name>
+<Short_Name>AIM-9P OR -9P-1</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>166</Store_Weight>
+<FS_Arm>327.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>133</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9P-2, -9P-3, OR -9P-4</Store_Name>
+<Short_Name>AIM-9P-2, -9P-3, OR -9P-4</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>178</Store_Weight>
+<FS_Arm>328.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>134</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9L OR -9M</Store_Name>
+<Short_Name>AIM-9L OR -9M</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>195</Store_Weight>
+<FS_Arm>328.8</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>135</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9X</Store_Name>
+<Short_Name>AIM-9X</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>186</Store_Weight>
+<FS_Arm>329.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>136</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-120A</Store_Name>
+<Short_Name>AIM-120A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>339</Store_Weight>
+<FS_Arm>324.9</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>137</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-120B</Store_Name>
+<Short_Name>AIM-120B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>341</Store_Weight>
+<FS_Arm>324.9</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>138</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-120C</Store_Name>
+<Short_Name>AIM-120C</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>341</Store_Weight>
+<FS_Arm>324.9</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>139</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-120C-5 OR -6</Store_Name>
+<Short_Name>AIM-120C-5 OR -6</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>355</Store_Weight>
+<FS_Arm>324.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>140</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-120C-7</Store_Name>
+<Short_Name>AIM-120C-7</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>356</Store_Weight>
+<FS_Arm>324.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>141</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-65A, B INBOARD</Store_Name>
+<Short_Name>AGM-65A, B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>464</Store_Weight>
+<FS_Arm>336.9</FS_Arm>
+<BLS_Arm>103.7</BLS_Arm>
+</Stores>
+<Stores>
+<ID>142</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-65A, B CENTER</Store_Name>
+<Short_Name>AGM-65A, B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>464</Store_Weight>
+<FS_Arm>337.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>143</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-65A, B OUTBOARD</Store_Name>
+<Short_Name>AGM-65A, B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>464</Store_Weight>
+<FS_Arm>336.9</FS_Arm>
+<BLS_Arm>136.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>144</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-65D INBOARD</Store_Name>
+<Short_Name>AGM-65D</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>486</Store_Weight>
+<FS_Arm>335.7</FS_Arm>
+<BLS_Arm>103.7</BLS_Arm>
+</Stores>
+<Stores>
+<ID>145</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-65D CENTER</Store_Name>
+<Short_Name>AGM-65D</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>486</Store_Weight>
+<FS_Arm>336.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>146</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-65D OUTBOARD</Store_Name>
+<Short_Name>AGM-65D</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>486</Store_Weight>
+<FS_Arm>335.7</FS_Arm>
+<BLS_Arm>136.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>147</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-65H INBOARD</Store_Name>
+<Short_Name>AGM-65H</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>471</Store_Weight>
+<FS_Arm>336.4</FS_Arm>
+<BLS_Arm>103.7</BLS_Arm>
+</Stores>
+<Stores>
+<ID>148</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-65H CENTER</Store_Name>
+<Short_Name>AGM-65H</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>471</Store_Weight>
+<FS_Arm>337.1</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>149</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-65H OUTBOARD</Store_Name>
+<Short_Name>AGM-65H</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>471</Store_Weight>
+<FS_Arm>336.4</FS_Arm>
+<BLS_Arm>136.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>150</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-65A, B</Store_Name>
+<Short_Name>AGM-65A, B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>464</Store_Weight>
+<FS_Arm>341.8</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>151</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-65D</Store_Name>
+<Short_Name>AGM-65D</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>486</Store_Weight>
+<FS_Arm>340.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>152</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-65G</Store_Name>
+<Short_Name>AGM-65G</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>672</Store_Weight>
+<FS_Arm>337.2</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>153</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-65H</Store_Name>
+<Short_Name>AGM-65H</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>471</Store_Weight>
+<FS_Arm>341.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>154</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-65K</Store_Name>
+<Short_Name>AGM-65K</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>657</Store_Weight>
+<FS_Arm>338.2</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>155</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-88B, C</Store_Name>
+<Short_Name>AGM-88B, C</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>770</Store_Weight>
+<FS_Arm>325.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>156</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-154A (JSOW)</Store_Name>
+<Short_Name>AGM-154A (JSOW)</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>1064</Store_Weight>
+<FS_Arm>339.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>157</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-154/A INBOARD</Store_Name>
+<Short_Name>AGM-154/A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>1064</Store_Weight>
+<FS_Arm>339.6</FS_Arm>
+<BLS_Arm>108.1</BLS_Arm>
+</Stores>
+<Stores>
+<ID>158</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-154/A OUTBOARD</Store_Name>
+<Short_Name>AGM-154/A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>1064</Store_Weight>
+<FS_Arm>339.6</FS_Arm>
+<BLS_Arm>131.9</BLS_Arm>
+</Stores>
+<Stores>
+<ID>159</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-154/B INBOARD</Store_Name>
+<Short_Name>AGM-154/B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>1046</Store_Weight>
+<FS_Arm>338.8</FS_Arm>
+<BLS_Arm>108.1</BLS_Arm>
+</Stores>
+<Stores>
+<ID>160</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-154/B OUTBOARD</Store_Name>
+<Short_Name>AGM-154/B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>1046</Store_Weight>
+<FS_Arm>338.8</FS_Arm>
+<BLS_Arm>131.9</BLS_Arm>
+</Stores>
+<Stores>
+<ID>161</ID>
+<Quantity>1</Quantity>
+<Store_Name>AGM-158A (JASSM)</Store_Name>
+<Short_Name>AGM-158A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>2160</Store_Weight>
+<FS_Arm>340</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>162</ID>
+<Quantity>19</Quantity>
+<Store_Name>ROCKETS W/MK-4 RM &amp; M151, M156 OR WTU-1B WH</Store_Name>
+<Short_Name>ROCKETS</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>22</Store_Weight>
+<FS_Arm>336.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>163</ID>
+<Quantity>19</Quantity>
+<Store_Name>ROCKETS W/MK-4 RM &amp; MK-1, MK-5 OR WK-61 WH</Store_Name>
+<Short_Name>ROCKETS</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>18</Store_Weight>
+<FS_Arm>336.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>164</ID>
+<Quantity>19</Quantity>
+<Store_Name>ROCKETS W/MK-4 RM &amp; M151 OR M156 WARHEAD CENTER</Store_Name>
+<Short_Name>ROCKETS</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>22</Store_Weight>
+<FS_Arm>337.2</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>165</ID>
+<Quantity>19</Quantity>
+<Store_Name>ROCKETS W/MK-4 RM &amp; M151 OR M156 WARHEAD OUTBOARD</Store_Name>
+<Short_Name>ROCKETS</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>22</Store_Weight>
+<FS_Arm>336.5</FS_Arm>
+<BLS_Arm>131.3</BLS_Arm>
+</Stores>
+<Stores>
+<ID>166</ID>
+<Quantity>19</Quantity>
+<Store_Name>ROCKETS W/MK-4 RM &amp; MK-1 OR MK-5 WARHEAD CENTER</Store_Name>
+<Short_Name>ROCKETS</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>18</Store_Weight>
+<FS_Arm>337.5</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>167</ID>
+<Quantity>19</Quantity>
+<Store_Name>ROCKETS W/MK-4 RM &amp; MK-1 OR MK-5 WARHEAD OUTBOARD</Store_Name>
+<Short_Name>ROCKETS</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>18</Store_Weight>
+<FS_Arm>336.9</FS_Arm>
+<BLS_Arm>131.3</BLS_Arm>
+</Stores>
+<Stores>
+<ID>168</ID>
+<Quantity>7</Quantity>
+<Store_Name>ROCKETS W/MK-4 RM &amp; M151 OR M156 WARHEAD CENTER</Store_Name>
+<Short_Name>ROCKETS</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>22</Store_Weight>
+<FS_Arm>340.2</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>169</ID>
+<Quantity>7</Quantity>
+<Store_Name>ROCKETS W/MK-4 RM &amp; M151 OR M156 WARHEAD OUTBOARD</Store_Name>
+<Short_Name>ROCKETS</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>22</Store_Weight>
+<FS_Arm>339.7</FS_Arm>
+<BLS_Arm>129.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>170</ID>
+<Quantity>7</Quantity>
+<Store_Name>ROCKETS W/MK-4 RM &amp; MK-1 OR MK-5 WARHEAD CENTER</Store_Name>
+<Short_Name>ROCKETS</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>18</Store_Weight>
+<FS_Arm>343.2</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>171</ID>
+<Quantity>7</Quantity>
+<Store_Name>ROCKETS W/MK-4 RM &amp; MK-1 OR MK-5 WARHEAD OUTBOARD</Store_Name>
+<Short_Name>ROCKETS</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>18</Store_Weight>
+<FS_Arm>342.6</FS_Arm>
+<BLS_Arm>129.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>172</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-87/B, A/B, B/B, C/B</Store_Name>
+<Short_Name>CBU-87</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>950</Store_Weight>
+<FS_Arm>339.1</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>173</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-89/B, A/B</Store_Name>
+<Short_Name>CBU-89</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>702</Store_Weight>
+<FS_Arm>339.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>174</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-97/B</Store_Name>
+<Short_Name>CBU-97</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>951</Store_Weight>
+<FS_Arm>339.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>175</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-103/B, A/B, B/B (WCMD)</Store_Name>
+<Short_Name>CBU-103</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>957</Store_Weight>
+<FS_Arm>340.1</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>176</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-104/B, A/B (WCMD)</Store_Name>
+<Short_Name>CBU-104</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>744</Store_Weight>
+<FS_Arm>342.2</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>177</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-105/B, A/B (WCMD)</Store_Name>
+<Short_Name>CBU-105</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>945</Store_Weight>
+<FS_Arm>341.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>178</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-105D/B (WCMD)</Store_Name>
+<Short_Name>CBU-105D</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>946</Store_Weight>
+<FS_Arm>324.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>179</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-107/B (PAW) (WCMD)</Store_Name>
+<Short_Name>CBU-107</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>996</Store_Weight>
+<FS_Arm>341.5</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>180</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-87/B, A/B, B/B, C/B CENTER</Store_Name>
+<Short_Name>CBU-87</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>950</Store_Weight>
+<FS_Arm>339.9</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>181</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-87/B, A/B, B/B, C/B OUTBOARD</Store_Name>
+<Short_Name>CBU-87</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>950</Store_Weight>
+<FS_Arm>339.3</FS_Arm>
+<BLS_Arm>131.3</BLS_Arm>
+</Stores>
+<Stores>
+<ID>182</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-89/B, A/B CENTER</Store_Name>
+<Short_Name>CBU-89</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>702</Store_Weight>
+<FS_Arm>340.2</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>183</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-89/B, A/B OUTBOARD</Store_Name>
+<Short_Name>CBU-89</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>702</Store_Weight>
+<FS_Arm>339.6</FS_Arm>
+<BLS_Arm>131.3</BLS_Arm>
+</Stores>
+<Stores>
+<ID>184</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-97/B CENTER</Store_Name>
+<Short_Name>CBU-97</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>951</Store_Weight>
+<FS_Arm>340.5</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>185</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-97/B OUTBOARD</Store_Name>
+<Short_Name>CBU-97</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>951</Store_Weight>
+<FS_Arm>339.9</FS_Arm>
+<BLS_Arm>131.3</BLS_Arm>
+</Stores>
+<Stores>
+<ID>186</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-103/B, A/B, B/B (WCMD) INBOARD</Store_Name>
+<Short_Name>CBU-103</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>957</Store_Weight>
+<FS_Arm>340.4</FS_Arm>
+<BLS_Arm>108.2</BLS_Arm>
+</Stores>
+<Stores>
+<ID>187</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-103/B, A/B, B/B (WCMD) OUTBOARD</Store_Name>
+<Short_Name>CBU-103</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>957</Store_Weight>
+<FS_Arm>340.4</FS_Arm>
+<BLS_Arm>131.8</BLS_Arm>
+</Stores>
+<Stores>
+<ID>188</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-104/B, A/B (WCMD) INBOARD</Store_Name>
+<Short_Name>CBU-104</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>744</Store_Weight>
+<FS_Arm>342.6</FS_Arm>
+<BLS_Arm>108.2</BLS_Arm>
+</Stores>
+<Stores>
+<ID>189</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-104/B, A/B (WCMD) OUTBOARD</Store_Name>
+<Short_Name>CBU-104</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>744</Store_Weight>
+<FS_Arm>342.6</FS_Arm>
+<BLS_Arm>131.8</BLS_Arm>
+</Stores>
+<Stores>
+<ID>190</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-105/B, A/B, B/B (WCMD) INBOARD</Store_Name>
+<Short_Name>CBU-105</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>945</Store_Weight>
+<FS_Arm>342</FS_Arm>
+<BLS_Arm>108.2</BLS_Arm>
+</Stores>
+<Stores>
+<ID>191</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-105/B, A/B, B/B (WCMD) OUTBOARD</Store_Name>
+<Short_Name>CBU-105</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>945</Store_Weight>
+<FS_Arm>342</FS_Arm>
+<BLS_Arm>131.8</BLS_Arm>
+</Stores>
+<Stores>
+<ID>192</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-105D/B (WCMD) INBOARD</Store_Name>
+<Short_Name>CBU-105D</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>946</Store_Weight>
+<FS_Arm>342</FS_Arm>
+<BLS_Arm>108.2</BLS_Arm>
+</Stores>
+<Stores>
+<ID>193</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-105D/B (WCMD) OUTBOARD</Store_Name>
+<Short_Name>CBU-105D</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>946</Store_Weight>
+<FS_Arm>342</FS_Arm>
+<BLS_Arm>131.8</BLS_Arm>
+</Stores>
+<Stores>
+<ID>194</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-107/B (WCMD) INBOARD</Store_Name>
+<Short_Name>CBU-107</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>996</Store_Weight>
+<FS_Arm>341.9</FS_Arm>
+<BLS_Arm>108.2</BLS_Arm>
+</Stores>
+<Stores>
+<ID>195</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-107/B (WCMD) OUTBOARD</Store_Name>
+<Short_Name>CBU-107</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>996</Store_Weight>
+<FS_Arm>341.9</FS_Arm>
+<BLS_Arm>131.8</BLS_Arm>
+</Stores>
+<Stores>
+<ID>196</ID>
+<Quantity>1</Quantity>
+<Store_Name>M129E2</Store_Name>
+<Short_Name>M129E2</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>229</Store_Weight>
+<FS_Arm>343.8</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>197</ID>
+<Quantity>1</Quantity>
+<Store_Name>PDU-5/B</Store_Name>
+<Short_Name>PDU-5/B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>283</Store_Weight>
+<FS_Arm>339.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>198</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 82 LDGP</Store_Name>
+<Short_Name>MK 82 LDGP</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>338.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>199</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 82 LDGP (OR BDU-50/B) INBOARD</Store_Name>
+<Short_Name>MK 82 LDGP</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>338.8</FS_Arm>
+<BLS_Arm>110.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>200</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 82 LDGP (OR BDU-50/B) CENTER</Store_Name>
+<Short_Name>MK 82 LDGP</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>339.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>201</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 82 LDGP (OR BDU-50/B) OUTBOARD</Store_Name>
+<Short_Name>MK 82 LDGP</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>338.8</FS_Arm>
+<BLS_Arm>129.6</BLS_Arm>
+</Stores>
+<Stores>
+<ID>202</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 84</Store_Name>
+<Short_Name>MK 84</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>1970</Store_Weight>
+<FS_Arm>338.2</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>203</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 82 AIR</Store_Name>
+<Short_Name>MK 82 AIR</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>540</Store_Weight>
+<FS_Arm>340.5</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>204</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 82 AIR INBOARD</Store_Name>
+<Short_Name>MK 82 AIR</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>540</Store_Weight>
+<FS_Arm>340.7</FS_Arm>
+<BLS_Arm>110.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>205</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 82 AIR CENTER</Store_Name>
+<Short_Name>MK 82 AIR</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>540</Store_Weight>
+<FS_Arm>341.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>206</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 82 AIR OUTBOARD</Store_Name>
+<Short_Name>MK 82 AIR</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>540</Store_Weight>
+<FS_Arm>340.7</FS_Arm>
+<BLS_Arm>129.6</BLS_Arm>
+</Stores>
+<Stores>
+<ID>207</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 84 AIR</Store_Name>
+<Short_Name>MK 84 AIR</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>2010</Store_Weight>
+<FS_Arm>338.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>208</ID>
+<Quantity>1</Quantity>
+<Store_Name>BLU-107/B</Store_Name>
+<Short_Name>BLU-107</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>482</Store_Weight>
+<FS_Arm>343.9</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>209</ID>
+<Quantity>1</Quantity>
+<Store_Name>BLU-107/B INBOARD</Store_Name>
+<Short_Name>BLU-107</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>482</Store_Weight>
+<FS_Arm>344.1</FS_Arm>
+<BLS_Arm>110.7</BLS_Arm>
+</Stores>
+<Stores>
+<ID>210</ID>
+<Quantity>1</Quantity>
+<Store_Name>BLU-107/B CENTER</Store_Name>
+<Short_Name>BLU-107</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>482</Store_Weight>
+<FS_Arm>344.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>211</ID>
+<Quantity>1</Quantity>
+<Store_Name>BLU-107/B OUTBOARD</Store_Name>
+<Short_Name>BLU-107</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>482</Store_Weight>
+<FS_Arm>344.1</FS_Arm>
+<BLS_Arm>129.3</BLS_Arm>
+</Stores>
+<Stores>
+<ID>212</ID>
+<Quantity>1</Quantity>
+<Store_Name>BLU-109/B</Store_Name>
+<Short_Name>BLU-109</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>2020</Store_Weight>
+<FS_Arm>337.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>213</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-10C/B, D/B, E/B, F/B</Store_Name>
+<Short_Name>GBU-10C/B, D/B, E/B, F/B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>2052</Store_Weight>
+<FS_Arm>336.1</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>214</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-10G/B, H/B, J/B</Store_Name>
+<Short_Name>GBU-10G/B, H/B, J/B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>2135</Store_Weight>
+<FS_Arm>336.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>215</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-12B/B, C/B, D/B, E/B</Store_Name>
+<Short_Name>GBU-12</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>611</Store_Weight>
+<FS_Arm>337.9</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>216</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-24A/B</Store_Name>
+<Short_Name>GBU-24A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>2354</Store_Weight>
+<FS_Arm>337.1</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>217</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-24/B</Store_Name>
+<Short_Name>GBU-24</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>2306</Store_Weight>
+<FS_Arm>336.8</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>218</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-27A/B</Store_Name>
+<Short_Name>GBU-27A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>2218</Store_Weight>
+<FS_Arm>335</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>219</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-27/B</Store_Name>
+<Short_Name>GBU-27</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>2185</Store_Weight>
+<FS_Arm>334.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>220</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-31(V)1/B (JDAM)</Store_Name>
+<Short_Name>GBU-31</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>2071</Store_Weight>
+<FS_Arm>339.8</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>221</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-31B(V)1/B (JDAM)</Store_Name>
+<Short_Name>GBU-31B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>2064</Store_Weight>
+<FS_Arm>340</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>222</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-31C(V)1/B (JDAM)</Store_Name>
+<Short_Name>GBU-31C</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>2066</Store_Weight>
+<FS_Arm>340</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>223</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-31(V)3/B (JDAM)</Store_Name>
+<Short_Name>GBU-31(V)3</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>2144</Store_Weight>
+<FS_Arm>339.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>224</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-31B(V)3/B (JDAM)</Store_Name>
+<Short_Name>GBU-31B(V)3</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>2135</Store_Weight>
+<FS_Arm>339.2</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>225</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-31C(V)3/B (JDAM)</Store_Name>
+<Short_Name>GBU-31C(V)3</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>2136</Store_Weight>
+<FS_Arm>339.2</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>226</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38/B (JDAM)</Store_Name>
+<Short_Name>GBU-38</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>547</Store_Weight>
+<FS_Arm>341.2</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>227</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38B/B (JDAM)</Store_Name>
+<Short_Name>GBU-38B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>551</Store_Weight>
+<FS_Arm>341.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>228</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38C/B (JDAM)</Store_Name>
+<Short_Name>GBU-38C</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>552</Store_Weight>
+<FS_Arm>341.5</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>229</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38(V)4/B (LCBD-JDAM)</Store_Name>
+<Short_Name>GBU-38(V)4</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>555</Store_Weight>
+<FS_Arm>341.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>230</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38(V)5/B, B(V)5/B, C(V)5/B (BLU-129)</Store_Name>
+<Short_Name>GBU-38(V)5</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>567</Store_Weight>
+<FS_Arm>341</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>231</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38B(V)4/B (LCBD-JDAM)</Store_Name>
+<Short_Name>GBU-38B(V)4</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>554</Store_Weight>
+<FS_Arm>341.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>232</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38C(V)4/B (LCBD-JDAM)</Store_Name>
+<Short_Name>GBU-38C(V)4</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>556</Store_Weight>
+<FS_Arm>341.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>233</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-51/B (LCBD-PW II)</Store_Name>
+<Short_Name>GBU-51</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>620</Store_Weight>
+<FS_Arm>336.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>234</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-54(V)5/B, B(V)5/B, C(V)5/B (BLU-129)</Store_Name>
+<Short_Name>GBU-54</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>567</Store_Weight>
+<FS_Arm>341</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>235</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38(V)/B (JDAM) INBOARD</Store_Name>
+<Short_Name>GBU-38</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>547</Store_Weight>
+<FS_Arm>341.6</FS_Arm>
+<BLS_Arm>108.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>236</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38(V)/B (JDAM) OUTBOARD</Store_Name>
+<Short_Name>GBU-38</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>547</Store_Weight>
+<FS_Arm>341.6</FS_Arm>
+<BLS_Arm>131.6</BLS_Arm>
+</Stores>
+<Stores>
+<ID>237</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38B/B (JDAM) INBOARD</Store_Name>
+<Short_Name>GBU-38B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>551</Store_Weight>
+<FS_Arm>341.7</FS_Arm>
+<BLS_Arm>108.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>238</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38B/B (JDAM) OUTBOARD</Store_Name>
+<Short_Name>GBU-38B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>551</Store_Weight>
+<FS_Arm>341.7</FS_Arm>
+<BLS_Arm>131.6</BLS_Arm>
+</Stores>
+<Stores>
+<ID>239</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38C/B (JDAM) INBOARD</Store_Name>
+<Short_Name>GBU-38C</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>552</Store_Weight>
+<FS_Arm>341.9</FS_Arm>
+<BLS_Arm>108.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>240</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38C/B (JDAM) OUTBOARD</Store_Name>
+<Short_Name>GBU-38C</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>552</Store_Weight>
+<FS_Arm>341.9</FS_Arm>
+<BLS_Arm>131.6</BLS_Arm>
+</Stores>
+<Stores>
+<ID>241</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38(V)4/B (LCBD-JDAM) INBOARD</Store_Name>
+<Short_Name>GBU-38(V)4</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>555</Store_Weight>
+<FS_Arm>342</FS_Arm>
+<BLS_Arm>108.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>242</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38(V)4/B (LCBD-JDAM) OUTBOARD</Store_Name>
+<Short_Name>GBU-38(V)4</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>555</Store_Weight>
+<FS_Arm>342</FS_Arm>
+<BLS_Arm>131.6</BLS_Arm>
+</Stores>
+<Stores>
+<ID>243</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38B(V)4/B (LCBD-JDAM) INBOARD</Store_Name>
+<Short_Name>GBU-38B(V)4</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>554</Store_Weight>
+<FS_Arm>342</FS_Arm>
+<BLS_Arm>108.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>244</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38B(V)4/B (LCBD-JDAM) OUTBOARD</Store_Name>
+<Short_Name>GBU-38B(V)4</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>554</Store_Weight>
+<FS_Arm>342</FS_Arm>
+<BLS_Arm>131.6</BLS_Arm>
+</Stores>
+<Stores>
+<ID>245</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38C(V)4/B (LCBD-JDAM) INBOARD</Store_Name>
+<Short_Name>GBU-38C(V)4</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>556</Store_Weight>
+<FS_Arm>342.1</FS_Arm>
+<BLS_Arm>108.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>246</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38C(V)4/B (LCBD-JDAM) OUTBOARD</Store_Name>
+<Short_Name>GBU-38C(V)4</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>556</Store_Weight>
+<FS_Arm>342.1</FS_Arm>
+<BLS_Arm>131.6</BLS_Arm>
+</Stores>
+<Stores>
+<ID>247</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38(V)5/B, B(V)5/B, C(V)5/B (BLU-129) INBOARD</Store_Name>
+<Short_Name>GBU-38(V)5</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>567</Store_Weight>
+<FS_Arm>341.4</FS_Arm>
+<BLS_Arm>108.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>248</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-38(V)5/B, B(V)5/B, C(V)5/B (BLU-129) OUTBOARD</Store_Name>
+<Short_Name>GBU-38(V)5</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>567</Store_Weight>
+<FS_Arm>341.4</FS_Arm>
+<BLS_Arm>131.6</BLS_Arm>
+</Stores>
+<Stores>
+<ID>249</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-54(V)1/B (L-JDAM) INBOARD</Store_Name>
+<Short_Name>GBU-54(V)1</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>564</Store_Weight>
+<FS_Arm>341.6</FS_Arm>
+<BLS_Arm>108.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>250</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-54(V)1/B (L-JDAM) OUTBOARD</Store_Name>
+<Short_Name>GBU-54(V)1</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>564</Store_Weight>
+<FS_Arm>341.6</FS_Arm>
+<BLS_Arm>131.6</BLS_Arm>
+</Stores>
+<Stores>
+<ID>251</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-54B(V)1/B (L-JDAM) INBOARD</Store_Name>
+<Short_Name>GBU-54B(V)1</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>565</Store_Weight>
+<FS_Arm>341.6</FS_Arm>
+<BLS_Arm>108.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>252</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-54B(V)1/B (L-JDAM) OUTBOARD</Store_Name>
+<Short_Name>GBU-54B(V)1</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>565</Store_Weight>
+<FS_Arm>341.6</FS_Arm>
+<BLS_Arm>131.6</BLS_Arm>
+</Stores>
+<Stores>
+<ID>253</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-54C(V)1/B (L-JDAM) INBOARD</Store_Name>
+<Short_Name>GBU-54C(V)1</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>565</Store_Weight>
+<FS_Arm>341.6</FS_Arm>
+<BLS_Arm>108.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>254</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-54C(V)1/B (L-JDAM) OUTBOARD</Store_Name>
+<Short_Name>GBU-54C(V)1</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>565</Store_Weight>
+<FS_Arm>341.6</FS_Arm>
+<BLS_Arm>131.6</BLS_Arm>
+</Stores>
+<Stores>
+<ID>255</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-54(V)5/B, B(V)5/B, C(V)5/B (BLU-129) INBOARD</Store_Name>
+<Short_Name>GBU-54(V)5</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>567</Store_Weight>
+<FS_Arm>341.4</FS_Arm>
+<BLS_Arm>108.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>256</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-54(V)5/B, B(V)5/B, C(V)5/B (BLU-129) OUTBOARD</Store_Name>
+<Short_Name>GBU-54(V)5</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>567</Store_Weight>
+<FS_Arm>341.4</FS_Arm>
+<BLS_Arm>131.6</BLS_Arm>
+</Stores>
+<Stores>
+<ID>257</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-12B/B, C/B, D/B, E/B CENTER</Store_Name>
+<Short_Name>GBU-12</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>611</Store_Weight>
+<FS_Arm>338.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>258</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-12B/B, C/B, D/B, E/B OUTBOARD</Store_Name>
+<Short_Name>GBU-12</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>611</Store_Weight>
+<FS_Arm>338.1</FS_Arm>
+<BLS_Arm>129.6</BLS_Arm>
+</Stores>
+<Stores>
+<ID>259</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-51/B (LCBD-PW II) CENTER</Store_Name>
+<Short_Name>GBU-51</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>620</Store_Weight>
+<FS_Arm>337.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>260</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-51/B (LCBD-PW II) OUTBOARD</Store_Name>
+<Short_Name>GBU-51</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>620</Store_Weight>
+<FS_Arm>336.8</FS_Arm>
+<BLS_Arm>129.7</BLS_Arm>
+</Stores>
+<Stores>
+<ID>261</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-54(V)1/B (L-JDAM)</Store_Name>
+<Short_Name>GBU-54(V)1</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>564</Store_Weight>
+<FS_Arm>341.2</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>262</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-54B(V)1/B (L-JDAM)</Store_Name>
+<Short_Name>GBU-54B(V)1</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>565</Store_Weight>
+<FS_Arm>341.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>263</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-54C(V)1/B (L-JDAM)</Store_Name>
+<Short_Name>GBU-54C(V)1</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>565</Store_Weight>
+<FS_Arm>341.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>264</ID>
+<Quantity>1</Quantity>
+<Store_Name>BDU-38</Store_Name>
+<Short_Name>BDU-38</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>716</Store_Weight>
+<FS_Arm>338.8</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>265</ID>
+<Quantity>1</Quantity>
+<Store_Name>B-61 MOD 3, 4, 10, CTU-1, CTU-2, and VFA</Store_Name>
+<Short_Name>B-61</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>751</Store_Weight>
+<FS_Arm>339.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>266</ID>
+<Quantity>1</Quantity>
+<Store_Name>MINIATURE AIR LAUNCHED DECOY (MALD)</Store_Name>
+<Short_Name>MALD</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>101</Store_Weight>
+<FS_Arm>339.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>267</ID>
+<Quantity>1</Quantity>
+<Store_Name>MINIATURE AIR LAUNCHED DECOY (MALD)</Store_Name>
+<Short_Name>MALD</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>101</Store_Weight>
+<FS_Arm>339.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>268</ID>
+<Quantity>1</Quantity>
+<Store_Name>MINIATURE AIR LAUNCHED DECOY (MALD) CENTER</Store_Name>
+<Short_Name>MALD</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>101</Store_Weight>
+<FS_Arm>340.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>269</ID>
+<Quantity>1</Quantity>
+<Store_Name>MINIATURE AIR LAUNCHED DECOY (MALD) OUTBOARD</Store_Name>
+<Short_Name>MALD</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>101</Store_Weight>
+<FS_Arm>339.8</FS_Arm>
+<BLS_Arm>128</BLS_Arm>
+</Stores>
+<Stores>
+<ID>270</ID>
+<Quantity>1</Quantity>
+<Store_Name>MINIATURE AIR LAUNCHED DECOY (MALD) INBOARD</Store_Name>
+<Short_Name>MALD</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>101</Store_Weight>
+<FS_Arm>339.9</FS_Arm>
+<BLS_Arm>109</BLS_Arm>
+</Stores>
+<Stores>
+<ID>271</ID>
+<Quantity>1</Quantity>
+<Store_Name>MINIATURE AIR LAUNCHED DECOY (MALD) OUTBOARD</Store_Name>
+<Short_Name>MALD</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>101</Store_Weight>
+<FS_Arm>339.9</FS_Arm>
+<BLS_Arm>131</BLS_Arm>
+</Stores>
+<Stores>
+<ID>272</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-131(V)-4 THRU -6 (DEEP W/O RECEIVER PROCESSOR)</Store_Name>
+<Short_Name>ALQ-131(V)-4 THRU -6</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>659</Store_Weight>
+<FS_Arm>334</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>273</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-131(V)-12 (DEEP, BLOCK II W/O RECEIVER PROCESSOR)</Store_Name>
+<Short_Name>ALQ-131(V)-12</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>674</Store_Weight>
+<FS_Arm>334.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>274</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-131(V)-13 (SHALLOW, BLOCK II W/O RECEIVER PROCESSOR)</Store_Name>
+<Short_Name>ALQ-131(V)-13</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>574</Store_Weight>
+<FS_Arm>336.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>275</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-131(V)-14 (DEEP, BLOCK II WITH RECEIVER PROCESSOR)</Store_Name>
+<Short_Name>ALQ-131(V)-14</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>674</Store_Weight>
+<FS_Arm>333.5</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>276</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-131(V)-15 (SHALLOW, BLOCK II WITH RECEIVER PROCESSOR)</Store_Name>
+<Short_Name>ALQ-131(V)-15</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>614</Store_Weight>
+<FS_Arm>334.8</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>277</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-184(V)-7</Store_Name>
+<Short_Name>ALQ-184(V)-7</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>631</Store_Weight>
+<FS_Arm>337</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>278</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-184(V)-8</Store_Name>
+<Short_Name>ALQ-184(V)-8</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>471</Store_Weight>
+<FS_Arm>338</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>279</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-184(V)-11</Store_Name>
+<Short_Name>ALQ-184(V)-11</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>631</Store_Weight>
+<FS_Arm>336.9</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>280</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-184(V)-12</Store_Name>
+<Short_Name>ALQ-184(V)-12</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>474</Store_Weight>
+<FS_Arm>338.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>281</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-184(V)-14</Store_Name>
+<Short_Name>ALQ-184(V)-14</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>473</Store_Weight>
+<FS_Arm>337.9</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>282</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-188(V)</Store_Name>
+<Short_Name>ALQ-188(V)</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>313</Store_Weight>
+<FS_Arm>339.8</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>283</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-188(V)-7, -8, -9, -10</Store_Name>
+<Short_Name>ALQ-188(V)-7, -8, -9, -10</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>328</Store_Weight>
+<FS_Arm>338.8</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>284</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-188(V)-13, -14</Store_Name>
+<Short_Name>ALQ-188(V)-13, -14</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>327</Store_Weight>
+<FS_Arm>338</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>285</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-188(V)-17, -18</Store_Name>
+<Short_Name>ALQ-188(V)-17, -18</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>324</Store_Weight>
+<FS_Arm>338.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>286</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-188(V)1-100</Store_Name>
+<Short_Name>ALQ-188(V)1-100</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>319</Store_Weight>
+<FS_Arm>339.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>287</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-188(V)1-101, -102</Store_Name>
+<Short_Name>ALQ-188(V)1-101, -102</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>335</Store_Weight>
+<FS_Arm>341.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>288</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-188(V)2-200, -201</Store_Name>
+<Short_Name>ALQ-188(V)2-200, -201</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>349</Store_Weight>
+<FS_Arm>340.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>289</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-188(V)3-300, -301</Store_Name>
+<Short_Name>ALQ-188(V)3-300, -301</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>345</Store_Weight>
+<FS_Arm>341</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>290</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9 (INERT)</Store_Name>
+<Short_Name>AIM-9 (INERT)</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>169</Store_Weight>
+<FS_Arm>327.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>291</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9 (INERT)</Store_Name>
+<Short_Name>AIM-9 (INERT)</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>169</Store_Weight>
+<FS_Arm>326.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>292</ID>
+<Quantity>1</Quantity>
+<Store_Name>CATM-120A, B, C</Store_Name>
+<Short_Name>CATM-120A, B, C</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>345</Store_Weight>
+<FS_Arm>324.9</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>293</ID>
+<Quantity>1</Quantity>
+<Store_Name>CATM-120C (101)</Store_Name>
+<Short_Name>CATM-120C (101)</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>341</Store_Weight>
+<FS_Arm>324.9</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>294</ID>
+<Quantity>1</Quantity>
+<Store_Name>ATM-88B, C</Store_Name>
+<Short_Name>ATM-88</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>770</Store_Weight>
+<FS_Arm>325.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>295</ID>
+<Quantity>1</Quantity>
+<Store_Name>CATM-65H, K INBOARD</Store_Name>
+<Short_Name>CATM-65</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>474</Store_Weight>
+<FS_Arm>336.2</FS_Arm>
+<BLS_Arm>103.7</BLS_Arm>
+</Stores>
+<Stores>
+<ID>296</ID>
+<Quantity>1</Quantity>
+<Store_Name>CATM-65H, K CENTER</Store_Name>
+<Short_Name>CATM-65</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>474</Store_Weight>
+<FS_Arm>336.9</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>297</ID>
+<Quantity>1</Quantity>
+<Store_Name>CATM-65H, K OUTBOARD</Store_Name>
+<Short_Name>CATM-65</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>474</Store_Weight>
+<FS_Arm>336.2</FS_Arm>
+<BLS_Arm>136.3</BLS_Arm>
+</Stores>
+<Stores>
+<ID>298</ID>
+<Quantity>1</Quantity>
+<Store_Name>CATM-65H, K</Store_Name>
+<Short_Name>CATM-65</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>474</Store_Weight>
+<FS_Arm>341.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>299</ID>
+<Quantity>1</Quantity>
+<Store_Name>CATM-88B, C (WITH WINGS AND FINS)</Store_Name>
+<Short_Name>CATM-88</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>795</Store_Weight>
+<FS_Arm>324.9</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>300</ID>
+<Quantity>1</Quantity>
+<Store_Name>CATM-88B, C (W/O WINGS AND FINS)</Store_Name>
+<Short_Name>CATM-88</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>733</Store_Weight>
+<FS_Arm>323.1</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>301</ID>
+<Quantity>1</Quantity>
+<Store_Name>ATM-154A (JSOW)</Store_Name>
+<Short_Name>ATM-154A</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>1078</Store_Weight>
+<FS_Arm>339.2</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>302</ID>
+<Quantity>1</Quantity>
+<Store_Name>ATM-154B (JSOW)</Store_Name>
+<Short_Name>ATM-154B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>1069</Store_Weight>
+<FS_Arm>333.8</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>303</ID>
+<Quantity>1</Quantity>
+<Store_Name>TGM-65A, B INBOARD</Store_Name>
+<Short_Name>TGM-65A, B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>470</Store_Weight>
+<FS_Arm>336.6</FS_Arm>
+<BLS_Arm>103.7</BLS_Arm>
+</Stores>
+<Stores>
+<ID>304</ID>
+<Quantity>1</Quantity>
+<Store_Name>TGM-65A, B CENTER</Store_Name>
+<Short_Name>TGM-65A, B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>470</Store_Weight>
+<FS_Arm>337.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>305</ID>
+<Quantity>1</Quantity>
+<Store_Name>TGM-65A, B OUTBOARD</Store_Name>
+<Short_Name>TGM-65A, B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>470</Store_Weight>
+<FS_Arm>336.6</FS_Arm>
+<BLS_Arm>136.3</BLS_Arm>
+</Stores>
+<Stores>
+<ID>306</ID>
+<Quantity>1</Quantity>
+<Store_Name>TGM-65D, G INBOARD</Store_Name>
+<Short_Name>TGM-65D, G</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>474</Store_Weight>
+<FS_Arm>334.6</FS_Arm>
+<BLS_Arm>103.7</BLS_Arm>
+</Stores>
+<Stores>
+<ID>307</ID>
+<Quantity>1</Quantity>
+<Store_Name>TGM-65D, G CENTER</Store_Name>
+<Short_Name>TGM-65D, G</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>474</Store_Weight>
+<FS_Arm>335.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>308</ID>
+<Quantity>1</Quantity>
+<Store_Name>TGM-65D, G OUTBOARD</Store_Name>
+<Short_Name>TGM-65D, G</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>474</Store_Weight>
+<FS_Arm>334.6</FS_Arm>
+<BLS_Arm>136.3</BLS_Arm>
+</Stores>
+<Stores>
+<ID>309</ID>
+<Quantity>1</Quantity>
+<Store_Name>TGM-65A, B</Store_Name>
+<Short_Name>TGM-65A, B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>470</Store_Weight>
+<FS_Arm>341.5</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>310</ID>
+<Quantity>1</Quantity>
+<Store_Name>TGM-65D, G</Store_Name>
+<Short_Name>TGM-65D, G</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>474</Store_Weight>
+<FS_Arm>339.5</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>311</ID>
+<Quantity>4</Quantity>
+<Store_Name>2.75” FFAR M-151</Store_Name>
+<Short_Name>2.75” FFAR M-151</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>21</Store_Weight>
+<FS_Arm>352.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>312</ID>
+<Quantity>4</Quantity>
+<Store_Name>2.75” FFAR TARGET MARKING</Store_Name>
+<Short_Name>2.75” FFAR TM</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>20</Store_Weight>
+<FS_Arm>352.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>313</ID>
+<Quantity>6</Quantity>
+<Store_Name>BDU-33B/B OR -33D/B</Store_Name>
+<Short_Name>6 x BDU-33</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>24</Store_Weight>
+<FS_Arm>340.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>314</ID>
+<Quantity>3</Quantity>
+<Store_Name>BDU-33B/B OR -33D/B</Store_Name>
+<Short_Name>3 x BDU-33</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>24</Store_Weight>
+<FS_Arm>333.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>315</ID>
+<Quantity>1</Quantity>
+<Store_Name>BDU-50A/B, /B</Store_Name>
+<Short_Name>BDU-50</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>338.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>316</ID>
+<Quantity>1</Quantity>
+<Store_Name>BDU-50A/B, /B INBOARD</Store_Name>
+<Short_Name>BDU-50</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>338.8</FS_Arm>
+<BLS_Arm>110.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>317</ID>
+<Quantity>1</Quantity>
+<Store_Name>BDU-50A/B, /B CENTER</Store_Name>
+<Short_Name>BDU-50</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>339.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>318</ID>
+<Quantity>1</Quantity>
+<Store_Name>BDU-50A/B, /B OUTBOARD</Store_Name>
+<Short_Name>BDU-50</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>338.8</FS_Arm>
+<BLS_Arm>129.6</BLS_Arm>
+</Stores>
+<Stores>
+<ID>319</ID>
+<Quantity>1</Quantity>
+<Store_Name>BDU-56/B</Store_Name>
+<Short_Name>BDU-56</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>1840</Store_Weight>
+<FS_Arm>336.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>320</ID>
+<Quantity>6</Quantity>
+<Store_Name>MK 106</Store_Name>
+<Short_Name>6 x MK 106</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>5</Store_Weight>
+<FS_Arm>341.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>321</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9L AMD</Store_Name>
+<Short_Name>AIM-9L AMD</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>184</Store_Weight>
+<FS_Arm>329.1</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>322</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9L AMD</Store_Name>
+<Short_Name>AIM-9L AMD</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>184</Store_Weight>
+<FS_Arm>328</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>323</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9P AMD</Store_Name>
+<Short_Name>AIM-9P AMD</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>178</Store_Weight>
+<FS_Arm>330.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>324</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIM-9P AMD</Store_Name>
+<Short_Name>AIM-9P AMD</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>178</Store_Weight>
+<FS_Arm>329.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>325</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIS OR ACMI POD</Store_Name>
+<Short_Name>AIS OR ACMI POD</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>123</Store_Weight>
+<FS_Arm>327.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>326</ID>
+<Quantity>1</Quantity>
+<Store_Name>AIS OR ACMI POD</Store_Name>
+<Short_Name>AIS OR ACMI POD</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>123</Store_Weight>
+<FS_Arm>326.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>327</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52(V)-2, -3, -4</Store_Name>
+<Short_Name>AN/ARQ-52(V)-2, -3, -4</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>130</Store_Weight>
+<FS_Arm>328.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>328</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52(V)-2, -3, -4</Store_Name>
+<Short_Name>AN/ARQ-52(V)-2, -3, -4</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>130</Store_Weight>
+<FS_Arm>327.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>329</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52(V)-7</Store_Name>
+<Short_Name>AN/ARQ-52(V)-7</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>135</Store_Weight>
+<FS_Arm>329.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>330</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52(V)-7</Store_Name>
+<Short_Name>AN/ARQ-52(V)-7</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>135</Store_Weight>
+<FS_Arm>328.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>331</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52B(V)-2</Store_Name>
+<Short_Name>AN/ARQ-52B(V)-2</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>139</Store_Weight>
+<FS_Arm>328.8</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>332</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52B(V)-2</Store_Name>
+<Short_Name>AN/ARQ-52B(V)-2</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>139</Store_Weight>
+<FS_Arm>327.1</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>333</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52B(V)-17</Store_Name>
+<Short_Name>AN/ARQ-52B(V)-17</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>135</Store_Weight>
+<FS_Arm>328.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>334</ID>
+<Quantity>1</Quantity>
+<Store_Name>AN/ARQ-52B(V)-17</Store_Name>
+<Short_Name>AN/ARQ-52B(V)-17</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>135</Store_Weight>
+<FS_Arm>327.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>335</ID>
+<Quantity>1</Quantity>
+<Store_Name>GRDCS II SHOOTER POD</Store_Name>
+<Short_Name>GRDCS II SHOOTER POD</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>127</Store_Weight>
+<FS_Arm>327.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>336</ID>
+<Quantity>1</Quantity>
+<Store_Name>GRDCS II SHOOTER POD</Store_Name>
+<Short_Name>GRDCS II SHOOTER POD</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>127</Store_Weight>
+<FS_Arm>326.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>354</ID>
+<Quantity>1</Quantity>
+<Store_Name>370 GAL FUEL TANK</Store_Name>
+<Short_Name>370 GAL FUEL TANK</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>259</Store_Weight>
+<FS_Arm>309.459</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>357</ID>
+<Quantity>1</Quantity>
+<Store_Name>600 GAL FUEL TANK</Store_Name>
+<Short_Name>600 GAL FUEL TANK</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>399</Store_Weight>
+<FS_Arm>322.055</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>358</ID>
+<Quantity>19</Quantity>
+<Store_Name>ROCKETS W/MK-4 RM &amp; M151, M156 OR WTU-1B WH</Store_Name>
+<Short_Name>ROCKETS</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>22</Store_Weight>
+<FS_Arm>303.6</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>359</ID>
+<Quantity>19</Quantity>
+<Store_Name>ROCKETS W/MK-4 RM &amp; MK-1, MK-5 OR WK-61 WH</Store_Name>
+<Short_Name>ROCKETS</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>18</Store_Weight>
+<FS_Arm>303.9</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>360</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-87/B, A/B, B/B, C/B</Store_Name>
+<Short_Name>CBU-87</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>950</Store_Weight>
+<FS_Arm>306.3</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>361</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-89/B, A/B</Store_Name>
+<Short_Name>CBU-89</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>702</Store_Weight>
+<FS_Arm>306.6</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>362</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-97/B</Store_Name>
+<Short_Name>CBU-97</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>951</Store_Weight>
+<FS_Arm>306.9</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>363</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-52B/B CENTER</Store_Name>
+<Short_Name>CBU-52B</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>950</Store_Weight>
+<FS_Arm>307.1</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>364</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-52B/B OUTBOARD</Store_Name>
+<Short_Name>CBU-52B</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>950</Store_Weight>
+<FS_Arm>306.5</FS_Arm>
+<BLS_Arm>82.3</BLS_Arm>
+</Stores>
+<Stores>
+<ID>365</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-89/B, A/B CENTER</Store_Name>
+<Short_Name>CBU-89</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>702</Store_Weight>
+<FS_Arm>307.4</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>366</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-89/B, A/B OUTBOARD</Store_Name>
+<Short_Name>CBU-89</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>702</Store_Weight>
+<FS_Arm>306.8</FS_Arm>
+<BLS_Arm>82.3</BLS_Arm>
+</Stores>
+<Stores>
+<ID>367</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-97/B CENTER</Store_Name>
+<Short_Name>CBU-97</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>951</Store_Weight>
+<FS_Arm>307.7</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>368</ID>
+<Quantity>1</Quantity>
+<Store_Name>CBU-97/B OUTBOARD</Store_Name>
+<Short_Name>CBU-97</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>951</Store_Weight>
+<FS_Arm>307.1</FS_Arm>
+<BLS_Arm>82.3</BLS_Arm>
+</Stores>
+<Stores>
+<ID>369</ID>
+<Quantity>1</Quantity>
+<Store_Name>M129E2</Store_Name>
+<Short_Name>M129E2</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>229</Store_Weight>
+<FS_Arm>311</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>370</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 82 LDGP</Store_Name>
+<Short_Name>MK 82 LDGP</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>305.8</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>371</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 82 LDGP (OR BDU-50/B) INBOARD</Store_Name>
+<Short_Name>MK 82 LDGP</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>306</FS_Arm>
+<BLS_Arm>61.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>372</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 82 LDGP (OR BDU-50/B) CENTER</Store_Name>
+<Short_Name>MK 82 LDGP</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>306.6</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>373</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 82 LDGP (OR BDU-50/B) OUTBOARD</Store_Name>
+<Short_Name>MK 82 LDGP</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>306</FS_Arm>
+<BLS_Arm>80.6</BLS_Arm>
+</Stores>
+<Stores>
+<ID>374</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 82 AIR</Store_Name>
+<Short_Name>MK 82 AIR</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>540</Store_Weight>
+<FS_Arm>307.7</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>375</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 82 AIR INBOARD</Store_Name>
+<Short_Name>MK 82 AIR</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>540</Store_Weight>
+<FS_Arm>307.9</FS_Arm>
+<BLS_Arm>61.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>376</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 82 AIR CENTER</Store_Name>
+<Short_Name>MK 82 AIR</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>540</Store_Weight>
+<FS_Arm>308.5</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>377</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 82 AIR OUTBOARD</Store_Name>
+<Short_Name>MK 82 AIR</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>540</Store_Weight>
+<FS_Arm>307.9</FS_Arm>
+<BLS_Arm>80.6</BLS_Arm>
+</Stores>
+<Stores>
+<ID>378</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 84 LDGP</Store_Name>
+<Short_Name>MK 84 LDGP</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>1970</Store_Weight>
+<FS_Arm>305.4</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>379</ID>
+<Quantity>1</Quantity>
+<Store_Name>MK 84 AIR</Store_Name>
+<Short_Name>MK 84 AIR</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>2010</Store_Weight>
+<FS_Arm>305.5</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>380</ID>
+<Quantity>1</Quantity>
+<Store_Name>BLU-107/B</Store_Name>
+<Short_Name>BLU-107</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>482</Store_Weight>
+<FS_Arm>311.1</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>381</ID>
+<Quantity>1</Quantity>
+<Store_Name>BLU-107/B INBOARD</Store_Name>
+<Short_Name>BLU-107</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>482</Store_Weight>
+<FS_Arm>311.3</FS_Arm>
+<BLS_Arm>61.7</BLS_Arm>
+</Stores>
+<Stores>
+<ID>382</ID>
+<Quantity>1</Quantity>
+<Store_Name>BLU-107/B CENTER</Store_Name>
+<Short_Name>BLU-107</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>482</Store_Weight>
+<FS_Arm>311.9</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>383</ID>
+<Quantity>1</Quantity>
+<Store_Name>BLU-107/B OUTBOARD</Store_Name>
+<Short_Name>BLU-107</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>482</Store_Weight>
+<FS_Arm>311.3</FS_Arm>
+<BLS_Arm>80.3</BLS_Arm>
+</Stores>
+<Stores>
+<ID>384</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-10C/B, D/B, E/B, F/B</Store_Name>
+<Short_Name>GBU-10C/B, D/B, E/B, F/B</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>2052</Store_Weight>
+<FS_Arm>303.3</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>385</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-10G/B, H/B, J/B</Store_Name>
+<Short_Name>GBU-10G/B, H/B, J/B</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>2135</Store_Weight>
+<FS_Arm>303.9</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>386</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-12C/B, D/B, E/B</Store_Name>
+<Short_Name>GBU-12</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>611</Store_Weight>
+<FS_Arm>305.1</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>387</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-24A/B</Store_Name>
+<Short_Name>GBU-24A</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>2354</Store_Weight>
+<FS_Arm>304.3</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>388</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-24/B</Store_Name>
+<Short_Name>GBU-24</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>2306</Store_Weight>
+<FS_Arm>304</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>389</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-27A/B</Store_Name>
+<Short_Name>GBU-27A</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>2218</Store_Weight>
+<FS_Arm>302.2</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>390</ID>
+<Quantity>1</Quantity>
+<Store_Name>GBU-27/B</Store_Name>
+<Short_Name>GBU-27</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>2185</Store_Weight>
+<FS_Arm>301.9</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>391</ID>
+<Quantity>1</Quantity>
+<Store_Name>BDU-38/B</Store_Name>
+<Short_Name>BDU-38</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>716</Store_Weight>
+<FS_Arm>306</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>392</ID>
+<Quantity>1</Quantity>
+<Store_Name>B-61 MOD 3, 4, 10, CTU-1, CTU-2, and VFA</Store_Name>
+<Short_Name>B-61</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>751</Store_Weight>
+<FS_Arm>339.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>393</ID>
+<Quantity>4</Quantity>
+<Store_Name>2.75” FFAR M-151</Store_Name>
+<Short_Name>2.75” FFAR M-151</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>21</Store_Weight>
+<FS_Arm>319.6</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>394</ID>
+<Quantity>4</Quantity>
+<Store_Name>2.75” FFAR TARGET MARKING</Store_Name>
+<Short_Name>2.75” FFAR TM</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>20</Store_Weight>
+<FS_Arm>319.6</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>395</ID>
+<Quantity>6</Quantity>
+<Store_Name>BDU-33B/B, D/B</Store_Name>
+<Short_Name>BDU-33</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>24</Store_Weight>
+<FS_Arm>307.3</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>396</ID>
+<Quantity>3</Quantity>
+<Store_Name>BDU-33B/B, D/B</Store_Name>
+<Short_Name>BDU-33</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>24</Store_Weight>
+<FS_Arm>300</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>397</ID>
+<Quantity>1</Quantity>
+<Store_Name>BDU-50A/B, /B</Store_Name>
+<Short_Name>BDU-50</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>305.8</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>398</ID>
+<Quantity>1</Quantity>
+<Store_Name>BDU-50A/B, /B INBOARD</Store_Name>
+<Short_Name>BDU-50</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>306</FS_Arm>
+<BLS_Arm>61.4</BLS_Arm>
+</Stores>
+<Stores>
+<ID>399</ID>
+<Quantity>1</Quantity>
+<Store_Name>BDU-50A/B, /B CENTER</Store_Name>
+<Short_Name>BDU-50</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>306.6</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>400</ID>
+<Quantity>1</Quantity>
+<Store_Name>BDU-50A/B, /B OUTBOARD</Store_Name>
+<Short_Name>BDU-50</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>306</FS_Arm>
+<BLS_Arm>80.6</BLS_Arm>
+</Stores>
+<Stores>
+<ID>401</ID>
+<Quantity>1</Quantity>
+<Store_Name>BDU-56/B</Store_Name>
+<Short_Name>BDU-56</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>1840</Store_Weight>
+<FS_Arm>303.5</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>402</ID>
+<Quantity>6</Quantity>
+<Store_Name>MK 106</Store_Name>
+<Short_Name>MK 106</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>5</Store_Weight>
+<FS_Arm>310</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>407</ID>
+<Quantity>1</Quantity>
+<Store_Name>300 GAL FUEL TANK</Store_Name>
+<Short_Name>300 GAL FUEL TANK</Short_Name>
+<Station>5</Station>
+<Store_Weight>383</Store_Weight>
+<FS_Arm>325.849</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>408</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-131(V)-13 (SHALLOW, BLOCK II W/O RECEIVER PROCESSOR)</Store_Name>
+<Short_Name>ALQ-131(V)-13</Short_Name>
+<Station>5</Station>
+<Store_Weight>574</Store_Weight>
+<FS_Arm>308.7</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>409</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-131(V)-13 (SHALLOW, BLOCK II W/O RECEIVER PROCESSOR)</Store_Name>
+<Short_Name>ALQ-131(V)-13</Short_Name>
+<Station>5</Station>
+<Store_Weight>574</Store_Weight>
+<FS_Arm>336.4</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>410</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-131(V)-15 (SHALLOW, BLOCK II WITH RECEIVER PROCESSOR)</Store_Name>
+<Short_Name>ALQ-131(V)-15</Short_Name>
+<Station>5</Station>
+<Store_Weight>614</Store_Weight>
+<FS_Arm>307.1</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>411</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-131(V)-15 (SHALLOW, BLOCK II WITH RECEIVER PROCESSOR)</Store_Name>
+<Short_Name>ALQ-131(V)-15</Short_Name>
+<Station>5</Station>
+<Store_Weight>614</Store_Weight>
+<FS_Arm>334.8</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>412</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-184(V)-7</Store_Name>
+<Short_Name>ALQ-184(V)-7</Short_Name>
+<Station>5</Station>
+<Store_Weight>631</Store_Weight>
+<FS_Arm>319.2</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>413</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-184(V)-8</Store_Name>
+<Short_Name>ALQ-184(V)-8</Short_Name>
+<Station>5</Station>
+<Store_Weight>471</Store_Weight>
+<FS_Arm>310.2</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>414</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-184(V)-11</Store_Name>
+<Short_Name>ALQ-184(V)-11</Short_Name>
+<Station>5</Station>
+<Store_Weight>631</Store_Weight>
+<FS_Arm>319.1</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>415</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-184(V)-12</Store_Name>
+<Short_Name>ALQ-184(V)-12</Short_Name>
+<Station>5</Station>
+<Store_Weight>474</Store_Weight>
+<FS_Arm>310.5</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>416</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-184(V)-14</Store_Name>
+<Short_Name>ALQ-184(V)-14</Short_Name>
+<Station>5</Station>
+<Store_Weight>473</Store_Weight>
+<FS_Arm>310.2</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>417</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-188(V)</Store_Name>
+<Short_Name>ALQ-188(V)</Short_Name>
+<Station>5</Station>
+<Store_Weight>313</Store_Weight>
+<FS_Arm>312.2</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>418</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-188(V)-7, -8, -9, -10</Store_Name>
+<Short_Name>ALQ-188(V)-7, -8, -9, -10</Short_Name>
+<Station>5</Station>
+<Store_Weight>328</Store_Weight>
+<FS_Arm>311.1</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>419</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-188(V)-13, -14</Store_Name>
+<Short_Name>ALQ-188(V)-13, -14</Short_Name>
+<Station>5</Station>
+<Store_Weight>327</Store_Weight>
+<FS_Arm>311.4</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>420</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-188(V)-17, -18</Store_Name>
+<Short_Name>ALQ-188(V)-17, -18</Short_Name>
+<Station>5</Station>
+<Store_Weight>324</Store_Weight>
+<FS_Arm>311.1</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>421</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-188(V)1-100</Store_Name>
+<Short_Name>ALQ-188(V)1-100</Short_Name>
+<Station>5</Station>
+<Store_Weight>319</Store_Weight>
+<FS_Arm>312</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>422</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-188(V)1-101, -102</Store_Name>
+<Short_Name>ALQ-188(V)1-101, -102</Short_Name>
+<Station>5</Station>
+<Store_Weight>335</Store_Weight>
+<FS_Arm>313.7</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>423</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-188(V)2-200, -201</Store_Name>
+<Short_Name>ALQ-188(V)2-200, -201</Short_Name>
+<Station>5</Station>
+<Store_Weight>349</Store_Weight>
+<FS_Arm>312.8</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>424</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-188(V)3-300, -301</Store_Name>
+<Short_Name>ALQ-188(V)3-300, -301</Short_Name>
+<Station>5</Station>
+<Store_Weight>345</Store_Weight>
+<FS_Arm>313.4</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>425</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-131(V)-4 THRU -6 (DEEP W/O RECEIVER PROCESSOR)</Store_Name>
+<Short_Name>ALQ-131(V)-4 THRU -6</Short_Name>
+<Station>5</Station>
+<Store_Weight>659</Store_Weight>
+<FS_Arm>317.9</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>426</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-131(V)-12 (DEEP, BLOCK II W/O RECEIVER PROCESSOR)</Store_Name>
+<Short_Name>ALQ-131(V)-12</Short_Name>
+<Station>5</Station>
+<Store_Weight>674</Store_Weight>
+<FS_Arm>318.3</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>427</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-131(V)-13 (SHALLOW, BLOCK II W/O RECEIVER PROCESSOR)</Store_Name>
+<Short_Name>ALQ-131(V)-13</Short_Name>
+<Station>5</Station>
+<Store_Weight>574</Store_Weight>
+<FS_Arm>320.3</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>428</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-131(V)-14 (DEEP, BLOCK II WITH RECEIVER PROCESSOR)</Store_Name>
+<Short_Name>ALQ-131(V)-14</Short_Name>
+<Station>5</Station>
+<Store_Weight>674</Store_Weight>
+<FS_Arm>317.4</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>429</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-131(V)-15 (SHALLOW, BLOCK II WITH RECEIVER PROCESSOR)</Store_Name>
+<Short_Name>ALQ-131(V)-15</Short_Name>
+<Station>5</Station>
+<Store_Weight>614</Store_Weight>
+<FS_Arm>318.7</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>430</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-184(V)-7</Store_Name>
+<Short_Name>ALQ-184(V)-7</Short_Name>
+<Station>5</Station>
+<Store_Weight>631</Store_Weight>
+<FS_Arm>320.8</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>431</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-184(V)-8</Store_Name>
+<Short_Name>ALQ-184(V)-8</Short_Name>
+<Station>5</Station>
+<Store_Weight>471</Store_Weight>
+<FS_Arm>321.8</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>432</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-184(V)-11</Store_Name>
+<Short_Name>ALQ-184(V)-11</Short_Name>
+<Station>5</Station>
+<Store_Weight>631</Store_Weight>
+<FS_Arm>330.7</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>433</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-184(V)-12</Store_Name>
+<Short_Name>ALQ-184(V)-12</Short_Name>
+<Station>5</Station>
+<Store_Weight>474</Store_Weight>
+<FS_Arm>322.2</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>434</ID>
+<Quantity>1</Quantity>
+<Store_Name>ALQ-184(V)-14</Store_Name>
+<Short_Name>ALQ-184(V)-14</Short_Name>
+<Station>5</Station>
+<Store_Weight>473</Store_Weight>
+<FS_Arm>321.8</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>495</ID>
+<Quantity>38</Quantity>
+<Store_Name>ROCKETS W/MK-4 RM &amp; M151 OR M156 WARHEAD ALL STATIONS</Store_Name>
+<Short_Name>ROCKETS</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>22</Store_Weight>
+<FS_Arm>336.85</FS_Arm>
+<BLS_Arm>125.65</BLS_Arm>
+</Stores>
+<Stores>
+<ID>496</ID>
+<Quantity>38</Quantity>
+<Store_Name>ROCKETS W/MK-4 RM &amp; MK-1 OR MK-5 WARHEAD ALL STATIONS</Store_Name>
+<Short_Name>ROCKETS</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>18</Store_Weight>
+<FS_Arm>337.2</FS_Arm>
+<BLS_Arm>125.65</BLS_Arm>
+</Stores>
+<Stores>
+<ID>497</ID>
+<Quantity>14</Quantity>
+<Store_Name>ROCKETS W/MK-4 RM &amp; M151 OR M156 WARHEAD ALL STATIONS</Store_Name>
+<Short_Name>ROCKETS</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>22</Store_Weight>
+<FS_Arm>339.95</FS_Arm>
+<BLS_Arm>124.7</BLS_Arm>
+</Stores>
+<Stores>
+<ID>498</ID>
+<Quantity>14</Quantity>
+<Store_Name>ROCKETS W/MK-4 RM &amp; MK-1 OR MK-5 WARHEAD ALL STATIONS</Store_Name>
+<Short_Name>ROCKETS</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>18</Store_Weight>
+<FS_Arm>342.9</FS_Arm>
+<BLS_Arm>124.7</BLS_Arm>
+</Stores>
+<Stores>
+<ID>499</ID>
+<Quantity>2</Quantity>
+<Store_Name>CBU-87/B, A/B, B/B, C/B CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>CBU-87</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>950</Store_Weight>
+<FS_Arm>339.6</FS_Arm>
+<BLS_Arm>125.65</BLS_Arm>
+</Stores>
+<Stores>
+<ID>500</ID>
+<Quantity>2</Quantity>
+<Store_Name>CBU-89/B, A/B CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>CBU-89</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>702</Store_Weight>
+<FS_Arm>339.9</FS_Arm>
+<BLS_Arm>125.65</BLS_Arm>
+</Stores>
+<Stores>
+<ID>501</ID>
+<Quantity>2</Quantity>
+<Store_Name>CBU-97/B CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>CBU-97</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>951</Store_Weight>
+<FS_Arm>340.2</FS_Arm>
+<BLS_Arm>125.65</BLS_Arm>
+</Stores>
+<Stores>
+<ID>502</ID>
+<Quantity>2</Quantity>
+<Store_Name>CBU-103/B, A/B, B/B (WCMD) INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>CBU-103</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>957</Store_Weight>
+<FS_Arm>340.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>503</ID>
+<Quantity>2</Quantity>
+<Store_Name>CBU-104/B, A/B (WCMD) INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>CBU-104</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>744</Store_Weight>
+<FS_Arm>342.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>504</ID>
+<Quantity>2</Quantity>
+<Store_Name>CBU-105/B, A/B, B/B (WCMD) INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>CBU-105</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>945</Store_Weight>
+<FS_Arm>342</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>505</ID>
+<Quantity>2</Quantity>
+<Store_Name>CBU-105D/B (WCMD) INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>CBU-105D</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>946</Store_Weight>
+<FS_Arm>342</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>506</ID>
+<Quantity>2</Quantity>
+<Store_Name>CBU-107/B (WCMD) INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>CBU-107</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>996</Store_Weight>
+<FS_Arm>341.9</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>507</ID>
+<Quantity>2</Quantity>
+<Store_Name>MK 82 LDGP (OR BDU-50/B) INBOARD &amp; CENTER</Store_Name>
+<Short_Name>2 x MK 82 LDGP</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>339.1</FS_Arm>
+<BLS_Arm>115.2</BLS_Arm>
+</Stores>
+<Stores>
+<ID>508</ID>
+<Quantity>2</Quantity>
+<Store_Name>MK 82 LDGP (OR BDU-50/B) INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x MK 82 LDGP</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>338.8</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>509</ID>
+<Quantity>2</Quantity>
+<Store_Name>MK 82 LDGP (OR BDU-50/B) CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x MK 82 LDGP</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>339.1</FS_Arm>
+<BLS_Arm>124.8</BLS_Arm>
+</Stores>
+<Stores>
+<ID>510</ID>
+<Quantity>3</Quantity>
+<Store_Name>MK 82 LDGP (OR BDU-50/B) ALL STATIONS</Store_Name>
+<Short_Name>2 x MK 82 LDGP</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>339.2</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>511</ID>
+<Quantity>2</Quantity>
+<Store_Name>MK 82 AIR INBOARD &amp; CENTER</Store_Name>
+<Short_Name>2 x MK 82 AIR</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>540</Store_Weight>
+<FS_Arm>341</FS_Arm>
+<BLS_Arm>115.2</BLS_Arm>
+</Stores>
+<Stores>
+<ID>512</ID>
+<Quantity>2</Quantity>
+<Store_Name>MK 82 AIR INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x MK 82 AIR</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>540</Store_Weight>
+<FS_Arm>340.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>513</ID>
+<Quantity>2</Quantity>
+<Store_Name>MK 82 AIR CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x MK 82 AIR</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>540</Store_Weight>
+<FS_Arm>341</FS_Arm>
+<BLS_Arm>124.8</BLS_Arm>
+</Stores>
+<Stores>
+<ID>514</ID>
+<Quantity>3</Quantity>
+<Store_Name>MK 82 AIR ALL STATIONS</Store_Name>
+<Short_Name>3 x MK 82 AIR</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>540</Store_Weight>
+<FS_Arm>340.9</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>515</ID>
+<Quantity>2</Quantity>
+<Store_Name>BLU-107/B INBOARD &amp; CENTER</Store_Name>
+<Short_Name>2 x BLU-107</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>482</Store_Weight>
+<FS_Arm>344.4</FS_Arm>
+<BLS_Arm>115.35</BLS_Arm>
+</Stores>
+<Stores>
+<ID>516</ID>
+<Quantity>2</Quantity>
+<Store_Name>BLU-107/B INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x BLU-107</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>482</Store_Weight>
+<FS_Arm>344.1</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>517</ID>
+<Quantity>2</Quantity>
+<Store_Name>BLU-107/B CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x BLU-107</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>482</Store_Weight>
+<FS_Arm>344.4</FS_Arm>
+<BLS_Arm>124.65</BLS_Arm>
+</Stores>
+<Stores>
+<ID>519</ID>
+<Quantity>2</Quantity>
+<Store_Name>GBU-38(V)/B (JDAM) INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x GBU-38</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>547</Store_Weight>
+<FS_Arm>341.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>520</ID>
+<Quantity>2</Quantity>
+<Store_Name>GBU-38B/B (JDAM) INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x GBU-38B</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>551</Store_Weight>
+<FS_Arm>341.7</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>521</ID>
+<Quantity>2</Quantity>
+<Store_Name>GBU-38C/B (JDAM) INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x GBU-38C</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>552</Store_Weight>
+<FS_Arm>341.9</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>522</ID>
+<Quantity>2</Quantity>
+<Store_Name>GBU-38(V)4/B (LCBD-JDAM) INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x GBU-38(V)4</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>555</Store_Weight>
+<FS_Arm>342</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>523</ID>
+<Quantity>2</Quantity>
+<Store_Name>GBU-38B(V)4/B (LCBD-JDAM) INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x GBU-38B(V)4</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>554</Store_Weight>
+<FS_Arm>342</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>524</ID>
+<Quantity>2</Quantity>
+<Store_Name>GBU-38C(V)4/B (LCBD-JDAM) INBOARD</Store_Name>
+<Short_Name>2 x GBU-38C(V)4</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>556</Store_Weight>
+<FS_Arm>342.1</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>525</ID>
+<Quantity>2</Quantity>
+<Store_Name>GBU-38(V)5/B, B(V)5/B, C(V)5/B (BLU-129) INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x GBU-38(V)5</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>567</Store_Weight>
+<FS_Arm>341.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>526</ID>
+<Quantity>2</Quantity>
+<Store_Name>GBU-54(V)1/B (L-JDAM) INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x GBU-54(V)1</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>564</Store_Weight>
+<FS_Arm>341.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>518</ID>
+<Quantity>3</Quantity>
+<Store_Name>BLU-107/B ALL STATIONS</Store_Name>
+<Short_Name>3 x BLU-107</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>482</Store_Weight>
+<FS_Arm>344.3</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>527</ID>
+<Quantity>2</Quantity>
+<Store_Name>GBU-54B(V)1/B (L-JDAM) INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x GBU-54B(V)1</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>565</Store_Weight>
+<FS_Arm>341.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>528</ID>
+<Quantity>2</Quantity>
+<Store_Name>GBU-54C(V)1/B (L-JDAM) INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x GBU-54C(V)1</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>565</Store_Weight>
+<FS_Arm>341.6</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>529</ID>
+<Quantity>2</Quantity>
+<Store_Name>GBU-54(V)5/B, B(V)5/B, C(V)5/B (BLU-129) INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x GBU-54(V)5</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>567</Store_Weight>
+<FS_Arm>341.4</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>530</ID>
+<Quantity>2</Quantity>
+<Store_Name>GBU-12B/B, C/B, D/B, E/B CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x GBU-12</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>611</Store_Weight>
+<FS_Arm>338.4</FS_Arm>
+<BLS_Arm>124.8</BLS_Arm>
+</Stores>
+<Stores>
+<ID>531</ID>
+<Quantity>2</Quantity>
+<Store_Name>GBU-51/B (LCBD-PW II) CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x GBU-51</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>620</Store_Weight>
+<FS_Arm>337.1</FS_Arm>
+<BLS_Arm>124.85</BLS_Arm>
+</Stores>
+<Stores>
+<ID>533</ID>
+<Quantity>2</Quantity>
+<Store_Name>MINIATURE AIR LAUNCHED DECOY (MALD) CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x MALD</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>101</Store_Weight>
+<FS_Arm>340.1</FS_Arm>
+<BLS_Arm>124</BLS_Arm>
+</Stores>
+<Stores>
+<ID>534</ID>
+<Quantity>2</Quantity>
+<Store_Name>MINIATURE AIR LAUNCHED DECOY (MALD) INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x MALD</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>101</Store_Weight>
+<FS_Arm>339.9</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>535</ID>
+<Quantity>2</Quantity>
+<Store_Name>BDU-50A/B, /B INBOARD &amp; CENTER</Store_Name>
+<Short_Name>2 x BDU-50</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>339.1</FS_Arm>
+<BLS_Arm>115.2</BLS_Arm>
+</Stores>
+<Stores>
+<ID>536</ID>
+<Quantity>2</Quantity>
+<Store_Name>BDU-50A/B, /B INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x BDU-50</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>338.8</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>537</ID>
+<Quantity>2</Quantity>
+<Store_Name>BDU-50A/B, /B CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x BDU-50</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>339.1</FS_Arm>
+<BLS_Arm>124.8</BLS_Arm>
+</Stores>
+<Stores>
+<ID>538</ID>
+<Quantity>3</Quantity>
+<Store_Name>BDU-50A/B, /B ALL STATIONS</Store_Name>
+<Short_Name>3 x BDU-50</Short_Name>
+<Station>3/7</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>339.02</FS_Arm>
+<BLS_Arm>120</BLS_Arm>
+</Stores>
+<Stores>
+<ID>539</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1700, 16E1608 CRIU</Store_Name>
+<Short_Name>W/P, CRIU</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>276</Store_Weight>
+<FS_Arm>314</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>540</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1700, 16E10100 ACRIU</Store_Name>
+<Short_Name>W/P, ACRIU</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>278</Store_Weight>
+<FS_Arm>314</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>541</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1700, 16E1640 NRIU</Store_Name>
+<Short_Name>W/P, NRIU</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>280</Store_Weight>
+<FS_Arm>315</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>542</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1700, 16E10250 Rugged NRIU</Store_Name>
+<Short_Name>W/P, Rugged NRIU</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>281</Store_Weight>
+<FS_Arm>315</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>543</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1700, 16E1608 and 16E1640 RIUs</Store_Name>
+<Short_Name>W/P, 16E1608 &amp; 16E1640</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>287</Store_Weight>
+<FS_Arm>315</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>544</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1700, 16E1608 and 16E10250 RIUs</Store_Name>
+<Short_Name>W/P, 16E1608 &amp; 16E10250</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>287</Store_Weight>
+<FS_Arm>315</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>545</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1700, 16E10100 and 16E1640 RIUs</Store_Name>
+<Short_Name>W/P, 16E10100 &amp; 16E1640</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>289</Store_Weight>
+<FS_Arm>316</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>546</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1700, 16E10100 and 16E10250 RIUs</Store_Name>
+<Short_Name>W/P, 16E10100 &amp; 16E10250</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>289</Store_Weight>
+<FS_Arm>316</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>547</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S401 FUEL PYLON (370-GAL.)</Store_Name>
+<Short_Name>FUEL PYLON (370 GAL)</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>199</Store_Weight>
+<FS_Arm>327</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>548</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1300 FUEL PYLON (370-GAL.)</Store_Name>
+<Short_Name>FUEL PYLON (370 GAL)</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>219</Store_Weight>
+<FS_Arm>328</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>549</ID>
+<Quantity>1</Quantity>
+<Store_Name>66J45517 TER-9/A</Store_Name>
+<Short_Name>TER-9/A</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>93</Store_Weight>
+<FS_Arm>308.3</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>550</ID>
+<Quantity>1</Quantity>
+<Store_Name>66J45517 TER-9/A (W SWAY BRACES)</Store_Name>
+<Short_Name>TER-9/A</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>99</Store_Weight>
+<FS_Arm>307.6</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>551</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1750 TER</Store_Name>
+<Short_Name>TER</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>117</Store_Weight>
+<FS_Arm>305.1</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>552</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1750 TER (W SWAY BRACES)</Store_Name>
+<Short_Name>TER</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>123</Store_Weight>
+<FS_Arm>304.9</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>553</ID>
+<Quantity>1</Quantity>
+<Store_Name>LAU-3/A, B/A, C/A, D/A POD</Store_Name>
+<Short_Name>LAU-3/A</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>78</Store_Weight>
+<FS_Arm>311.8</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>554</ID>
+<Quantity>1</Quantity>
+<Store_Name>SUU-20A/A POD</Store_Name>
+<Short_Name>SUU-20A</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>330</Store_Weight>
+<FS_Arm>306.2</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>555</ID>
+<Quantity>1</Quantity>
+<Store_Name>SUU-20B/A POD</Store_Name>
+<Short_Name>SUU-20B</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>276</Store_Weight>
+<FS_Arm>305.9</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>556</ID>
+<Quantity>1</Quantity>
+<Store_Name>PIVOT BALL &amp; MISC.</Store_Name>
+<Short_Name>PIVOT BALL &amp; MISC.</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>8</Store_Weight>
+<FS_Arm>333.7</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>557</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S1800 FUEL PYLON (600-GAL.)</Store_Name>
+<Short_Name>FUEL PYLON (600 GAL)</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>295</Store_Weight>
+<FS_Arm>326.3</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>558</ID>
+<Quantity>2</Quantity>
+<Store_Name>CBU-52B/B CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x CBU-52B</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>950</Store_Weight>
+<FS_Arm>306.8</FS_Arm>
+<BLS_Arm>76.65</BLS_Arm>
+</Stores>
+<Stores>
+<ID>559</ID>
+<Quantity>2</Quantity>
+<Store_Name>CBU-89/B, A/B CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x CBU-89</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>702</Store_Weight>
+<FS_Arm>307.1</FS_Arm>
+<BLS_Arm>76.65</BLS_Arm>
+</Stores>
+<Stores>
+<ID>560</ID>
+<Quantity>2</Quantity>
+<Store_Name>CBU-97/B CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x CBU-97</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>951</Store_Weight>
+<FS_Arm>307.4</FS_Arm>
+<BLS_Arm>76.65</BLS_Arm>
+</Stores>
+<Stores>
+<ID>561</ID>
+<Quantity>2</Quantity>
+<Store_Name>MK 82 LDGP (OR BDU-50/B) INBOARD &amp; CENTER</Store_Name>
+<Short_Name>2 x MK 82 LDGP</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>306.3</FS_Arm>
+<BLS_Arm>66.2</BLS_Arm>
+</Stores>
+<Stores>
+<ID>562</ID>
+<Quantity>2</Quantity>
+<Store_Name>MK 82 LDGP (OR BDU-50/B) INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x MK 82 LDGP</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>306</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>563</ID>
+<Quantity>2</Quantity>
+<Store_Name>MK 82 LDGP (OR BDU-50/B) CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x MK 82 LDGP</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>306.3</FS_Arm>
+<BLS_Arm>75.8</BLS_Arm>
+</Stores>
+<Stores>
+<ID>564</ID>
+<Quantity>3</Quantity>
+<Store_Name>MK 82 LDGP (OR BDU-50/B) ALL STATIONS</Store_Name>
+<Short_Name>3 x MK 82 LDGP</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>306.2</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>565</ID>
+<Quantity>2</Quantity>
+<Store_Name>MK 82 AIR INBOARD &amp; CENTER</Store_Name>
+<Short_Name>2 x MK 82 AIR</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>540</Store_Weight>
+<FS_Arm>308.2</FS_Arm>
+<BLS_Arm>66.2</BLS_Arm>
+</Stores>
+<Stores>
+<ID>566</ID>
+<Quantity>2</Quantity>
+<Store_Name>MK 82 AIR INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x MK 82 AIR</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>540</Store_Weight>
+<FS_Arm>307.9</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>567</ID>
+<Quantity>2</Quantity>
+<Store_Name>MK 82 AIR CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x MK 82 AIR</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>540</Store_Weight>
+<FS_Arm>308.2</FS_Arm>
+<BLS_Arm>75.8</BLS_Arm>
+</Stores>
+<Stores>
+<ID>568</ID>
+<Quantity>3</Quantity>
+<Store_Name>MK 82 AIR ALL STATIONS</Store_Name>
+<Short_Name>3 x MK 82 AIR</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>540</Store_Weight>
+<FS_Arm>308.1</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>569</ID>
+<Quantity>2</Quantity>
+<Store_Name>BLU-107/B INBOARD &amp; CENTER</Store_Name>
+<Short_Name>2 x BLU-107</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>482</Store_Weight>
+<FS_Arm>311.6</FS_Arm>
+<BLS_Arm>66.35</BLS_Arm>
+</Stores>
+<Stores>
+<ID>570</ID>
+<Quantity>2</Quantity>
+<Store_Name>BLU-107/B INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x BLU-107</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>482</Store_Weight>
+<FS_Arm>311.3</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>571</ID>
+<Quantity>2</Quantity>
+<Store_Name>BLU-107/B CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x BLU-107</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>482</Store_Weight>
+<FS_Arm>311.6</FS_Arm>
+<BLS_Arm>75.65</BLS_Arm>
+</Stores>
+<Stores>
+<ID>572</ID>
+<Quantity>3</Quantity>
+<Store_Name>BLU-107/B ALL STATIONS</Store_Name>
+<Short_Name>3 x BLU-107</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>482</Store_Weight>
+<FS_Arm>311.5</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>573</ID>
+<Quantity>2</Quantity>
+<Store_Name>BDU-50A/B, /B INBOARD &amp; CENTER</Store_Name>
+<Short_Name>2 x BDU-50</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>306.3</FS_Arm>
+<BLS_Arm>66.2</BLS_Arm>
+</Stores>
+<Stores>
+<ID>574</ID>
+<Quantity>2</Quantity>
+<Store_Name>BDU-50A/B, /B INBOARD &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x BDU-50</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>306</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>575</ID>
+<Quantity>2</Quantity>
+<Store_Name>BDU-50A/B, /B CENTER &amp; OUTBOARD</Store_Name>
+<Short_Name>2 x BDU-50</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>306.3</FS_Arm>
+<BLS_Arm>75.8</BLS_Arm>
+</Stores>
+<Stores>
+<ID>576</ID>
+<Quantity>3</Quantity>
+<Store_Name>BDU-50A/B, /B ALL STATIONS</Store_Name>
+<Short_Name>3 x BDU-50</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>510</Store_Weight>
+<FS_Arm>306.2</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+<Stores>
+<ID>577</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S951 UNIVERSAL PYLON W/16E1608 CRIU</Store_Name>
+<Short_Name>16S951, CRIU</Short_Name>
+<Station>5</Station>
+<Store_Weight>172</Store_Weight>
+<FS_Arm>307.2</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>578</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S951 UNIVERSAL PYLON W/16E10100 ACRIU</Store_Name>
+<Short_Name>16S951, ACRIU</Short_Name>
+<Station>5</Station>
+<Store_Weight>174</Store_Weight>
+<FS_Arm>306.9</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>579</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S951 UNIVERSAL PYLON (RIU removed)</Store_Name>
+<Short_Name>16S951, RIU REMOVED</Short_Name>
+<Station>5</Station>
+<Store_Weight>160</Store_Weight>
+<FS_Arm>307.2</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>580</ID>
+<Quantity>1</Quantity>
+<Store_Name>16S601 ECM ADAPTER</Store_Name>
+<Short_Name>16S601 ECM ADAPTER</Short_Name>
+<Station>5</Station>
+<Store_Weight>43</Store_Weight>
+<FS_Arm>319.4</FS_Arm>
+<BLS_Arm>0</BLS_Arm>
+</Stores>
+<Stores>
+<ID>581</ID>
+<Quantity>1</Quantity>
+<Store_Name>370 TANK/PYLON/UNUSABLE FUEL</Store_Name>
+<Short_Name>370 TANK/PYLON/UNUS</Short_Name>
+<Station>4/6</Station>
+<Store_Weight>467</Store_Weight>
+<FS_Arm>317.987</FS_Arm>
+<BLS_Arm>71</BLS_Arm>
+</Stores>
+</dataroot>
